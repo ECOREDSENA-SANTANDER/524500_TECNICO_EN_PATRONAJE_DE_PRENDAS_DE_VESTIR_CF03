@@ -46,7 +46,7 @@
 
     p En primera instancia se debe contemplar tener la base o los básicos con los que se va a trabajar, partiendo de que los básicos se dividen en:
     
-    .row-.row.justify-content-center.mb-5
+    .row.mb-5
       .col-lg-7
         ul.lista-ul.mb-4
           li
@@ -100,7 +100,11 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             p #[b Desahogo por largo:] los desahogos por largos corresponden a:
-              p Largo de la prenda, en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado, esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores; debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
+          .col-md-9
+            ul.lista-ul.mb-4
+              li
+                i.fas.fa-check-circle 
+                | Largo de la prenda, en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado, esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores; debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
           .col-md-7.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 4.
@@ -111,7 +115,11 @@
           .col-md-10
             .py-4
             p #[b Desahogo por largo:] los desahogos por largos corresponden a:
-              p Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno)
+          .col-md-9
+              ul.lista-ul.mb-4
+                li
+                  i.fas.fa-check-circle 
+                  | Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno)
           .col-md-4.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 5.
@@ -121,7 +129,11 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
               p #[b Desahogo por ancho:]  Los desahogos corresponden a:
-                p #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
+          .col-md-9
+            ul.lista-ul.mb-4
+              li
+                i.fas.fa-check-circle 
+                | #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
           .col-md-4.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 6.
@@ -186,7 +198,7 @@
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
         .col-lg-2.col-6
-          img(src='@/assets/curso/temas/tema1/img04.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img004.svg', alt='')
         .col-lg-9
           p Con el fin de apropiar e identificar cada uno de los pasos anteriormente mencionados se dará inicio al trazo de una prenda superior, la cual irá cambiando su categorización a medida que se avance, es decir, en este primer trazo se hará el trazo de una especie de chaleco, el cual irá evolucionando a medida que se avance con las mangas, cuellos, puños y demás, hasta obtener una camisa debidamente señalizada y despiezada; es importante que tenga claro que este primer paso es el punto de partida para continuar con los siguientes.
     
@@ -242,12 +254,12 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-md-9.mb-4.mb-md-0
               p Entre más corta sea la cabeza de manga, corresponde a prendas #[b deportivas].
-            .col-md-2.col-6
+            .col-md-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema1/ico01.svg', alt='Texto que describa la imagen')
 
           .row.justify-content-center.align-items-center.mb-5
-            .col-md-2.mb-4.mb-md-0.col-6
+            .col-md-3.mb-4.mb-md-0.col-6
               figure
                 img(src='@/assets/curso/temas/tema1/ico02.svg', alt='Texto que describa la imagen')
             .col-md-9
@@ -257,7 +269,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-md-9.mb-4.mb-md-0
               p Un punto intermedio entre las dos anteriores, corresponde a prendas #[b casuales.]
-            .col-md-2.mb-4.mb-md-0.col-6
+            .col-md-3.mb-4.mb-md-0.col-6
               figure
                 img(src='@/assets/curso/temas/tema1/ico03.svg', alt='Texto que describa la imagen')
       
@@ -315,13 +327,13 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-md-4.mb-3.mb-md-0.p-4.cajonlila
-        h5.text-center Recorrido sisa delantera
+        h3.text-center Recorrido sisa delantera
         hr.hblanco
-        h5.text-center Recorrido sisa posterior
+        h3.text-center Recorrido sisa posterior
         hr.hblanco 
-        h5.text-center Tipo de cabeza de manga
+        h3.text-center Tipo de cabeza de manga
         hr.hblanco 
-        h5.text-center Largo de manga
+        h3.text-center Largo de manga
     .py-3    
     p En el desarrollo de curvas y trazos en las cabezas de manga existen varias formas de trazarlas, la implementación y guía que se presenta en el video hace referencia a un primer acercamiento didáctico frente a la comprensión y el comportamiento de las mangas, esto hace que sea esencial la revisión de este.
     .py-2
@@ -339,8 +351,8 @@
       .col-lg-10
         .tarjeta.color-acento-botones.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/video.svg")
+            .col-3.col-sm-2.col-lg-2
+              img.icosize(src="@/assets/curso/temas/tema1/video.svg")
             .col
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0
@@ -364,19 +376,19 @@
 
     .bgamarillo.py-4
       SlyderA(tipo="a").p-4
-        .row.justify-content-center(data-aos="fade-left")
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-md-3.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
               span  Tipo de manga.
             img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
-          .col-md-4
+          .col-md-5
             p Estos son solo algunos de todos los que existen, es importante mencionar que #[b en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial], es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se #[b trabajará el nombre funcional] o que aplica con las referencias del cuerpo.
         
-        .row.justify-content-center(data-aos="fade-left")
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-md-3.mb-3.mb-md-0.p-4
             img(src='@/assets/curso/temas/tema1/img22.svg', alt='') 
-          .col-md-4
+          .col-md-5
             p Dentro de las variaciones más comunes encontradas en mangas se identifican los puños y las portañuelas, en infantil y masculino suelen ser utilizadas en el análisis o la interpretación de prendas superiores por camisas, chaquetas, vestidos y demás.
     .py-4
     .row.justify-content-center(data-aos="fade-left")
@@ -397,8 +409,8 @@
       h2 1.4 Trazo de cuellos – Generalidades y comportamientos
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-8.col-lg-9
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+      .col-sm-12.col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img24.png')})`}"
             )
@@ -466,7 +478,7 @@
       h2 1.5 Despiece de planos
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 21.
           span  Despiece
@@ -482,8 +494,8 @@
       h5 Figura 22.
       span  Costuras
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-11
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+      .col-sm-12.col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img30.png')})`}"
             )
@@ -649,8 +661,8 @@
       span Vestido infantil
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-9
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+      .col-sm-12.col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img50.png')})`}"
             )

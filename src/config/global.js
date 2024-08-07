@@ -41,11 +41,7 @@ export default {
             titulo: 'Trazo de cabezas mangas – Análisis de manga',
             hash: 't_1_3',
           },
-          {
-            numero: '1.3.1',
-            titulo: 'Modificaciones de manga',
-            hash: 't_1_3_1',
-          },
+
           {
             numero: '1.4',
             titulo: 'Trazo de cuellos – Generalidades y comportamientos',
@@ -95,16 +91,7 @@ export default {
             titulo: 'Trazo de camisa clásica',
             hash: 't_2_1',
           },
-          {
-            numero: '2.1.1',
-            titulo: 'Camisa slim fit',
-            hash: 't_2_1_1',
-          },
-          {
-            numero: '2.1.2',
-            titulo: 'Trazo de manga, puño y cuello – camisa clásica y slim fit',
-            hash: 't_2_1_2',
-          },
+
           {
             numero: '2.2',
             titulo: ' Trazo de prendas superiores - camisa',
@@ -138,11 +125,7 @@ export default {
             titulo: 'Traslados de pinza correctiva de talles',
             hash: 't_3_1',
           },
-          {
-            numero: '3.1.1',
-            titulo: ' Análisis y trazo de sistema de ajuste (pinzas y cortes)',
-            hash: 't_3_1_1',
-          },
+
           {
             numero: '3.2',
             titulo: ' Trazo de blusa femenina',
@@ -163,21 +146,13 @@ export default {
             titulo: 'Trazo de manga y cabezas de manga',
             hash: 't_3_5',
           },
-          {
-            numero: '3.5.1',
-            titulo: ' Interpretación de mangas',
-            hash: 't_3_5_1',
-          },
+
           {
             numero: '3.6',
             titulo: ' Trazo de falda y modificación de básicos de falda',
             hash: 't_3_6',
           },
-          {
-            numero: '3.6.1',
-            titulo: ' Trazo de faldas rotondas',
-            hash: 't_3_6_1',
-          },
+
           {
             numero: '3.7',
             titulo: ' Trazo de vestido de noche',
@@ -210,11 +185,6 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'glosario',
-        icono: 'fas fa-sort-alpha-down',
-        titulo: 'Glosario',
-      },
-      {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
@@ -244,31 +214,29 @@ export default {
   complementario: [
     {
       tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
-  ],
-  glosario: [
-    {
-      termino: 'Término',
-      significado: 'Texto de la definición',
-    },
-    {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      referencia:
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje',
+      link: 'https://repositorio.sena.edu.co/handle/11404/1432?show=full',
+    },
+    {
+      referencia:
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. ',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496 ',
+    },
+    {
+      referencia:
+        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA. ',
+      link: ' ',
     },
   ],
   creditos: [

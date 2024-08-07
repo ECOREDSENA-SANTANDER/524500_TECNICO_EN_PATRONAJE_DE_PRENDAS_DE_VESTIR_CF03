@@ -1,1 +1,1 @@
-module.exports = 'Requerimientos técnicos y prototipos'
+module.exports = 'Patronaje Básico'

@@ -15,13 +15,14 @@
         .col-lg-4.col-8
           img(src='@/assets/curso/temas/tema2/img01.png', alt='')
     .py-3
+    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-          .bloque-texto-g__img(
+      .col-lg-12
+        .bloque-texto-g.color-acento-contenido.p-4.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img.img30(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img02.png')})`}"
           )
-          .bloque-texto-g__texto.p-4
+          .bloque-texto-g__texto.p-4.cuadro-blanco
             p Otro punto para tener en cuenta es #[b el manejo de siluetas, en masculino el manual trabaja dos siluetas: una clásica y otra #[em slim fit]], si bien el desarrollo de los planos y moldes cumple con los mismos pasos o el mismo orden secuencial, #[b lo que varía son las fórmulas], específicamente para el desarrollo de los básicos.
             p Para la implementación y modificación de básicos #[b es importante tener claridad en cada uno de los conceptos de patronaje como medidas, pasos, elementos y vocabulario] técnico que se irá implementando en el desarrollo de los trazos, moldes o planos.
     
@@ -32,10 +33,10 @@
       h3.py-2.w-card-text Pasos del patronaje – implementación de básicos y desarrollo de modelos
     
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-8
         .border-lila
           .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
-            .col-lg-4
+            .col-lg-6
               ul.lista-ul--color.lista-ul--separador
                 li 
                   i
@@ -64,7 +65,7 @@
                   i
                   | #[b 5.  Despiece]
           
-            .col-lg-3.col-8
+            .col-lg-4.col-8
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
       p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
 
