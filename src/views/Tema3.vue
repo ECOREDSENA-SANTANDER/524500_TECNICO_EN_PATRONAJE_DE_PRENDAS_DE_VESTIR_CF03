@@ -30,13 +30,13 @@
                   | #[b 2. Interpretación]
                 li.pb-0
                   ul
-                    li 
+                    li.text-center 
                       i
                       | Desahogos – contorno. Largos y anchos
-                    li 
+                    li.text-center  
                       i
                       | Sistema de ajuste
-                    li 
+                    li.text-center  
                       i
                       | Sistema de cierre
                 li 
@@ -49,7 +49,7 @@
                   i
                   | #[b 5.  Despiece]
             
-            .col-lg-4.col-8
+            .col-lg-5.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema3/img01.svg', alt='')  
 
     Separador  
@@ -153,7 +153,7 @@
         p Con el fin de referenciar y contextualizar la implementación, recuerde que, aunque en el manual se identifica un plano separado se sugiere trabajar siempre en plano unido, con el fin de validar medidas como largos o proporciones referenciados en el plano.
         p Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
         p En el video a continuación se presenta dicho proceso: 
-      .col-lg-4.col-8
+      .col-lg-4.col-9
         .titulo-sexto.color-acento-contenido
           h5 Figura 40. 
           span Blusa femenina
@@ -180,7 +180,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
       .col-lg-2
         img.imgsize(src='@/assets/curso/temas/tema3/img11.svg', alt='')
-      .col-lg-9
+      .col-lg-10
         p Cuando se habla de cuellos, #[b lo primero que se debe tener en cuenta es la base y forma de cada escote], es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
         p Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen por:
 
@@ -221,7 +221,7 @@
             .py-3
     .py-3
     .row.justify-content-center(data-aos="fade-left").p-4
-      .col-lg-12
+      .col-lg-12.col-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 44. 
           span tipos de escotes
@@ -238,11 +238,11 @@
 
     .py-2
     .row.justify-content-center(data-aos="fade-left").p-4
-      .col-lg-3
+      .col-lg-3.col-sm-9.p-2
         img(src='@/assets/curso/temas/tema3/img20.svg', alt='')
-      .col-lg-3
+      .col-lg-3.col-sm-9.p-2
         img(src='@/assets/curso/temas/tema3/img21.svg', alt='')
-      .col-lg-3
+      .col-lg-3.col-sm-9.p-2
         img(src='@/assets/curso/temas/tema3/img22.svg', alt='')
     p En el video a continuación se explica de manera detallada cada uno de estos trazos y tipos de cuello: 
     .py-4
@@ -324,8 +324,8 @@
       .col-lg-10
         .tarjeta.color-acento-botones.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema3/website.svg")
+            .col-3.col-sm-2.col-lg-2
+              img.icosize(src="@/assets/curso/temas/tema3/website.svg")
             .col
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0
@@ -353,7 +353,7 @@
     p La finalidad del ejercicio es poder experimentar de qué manera se puede implementar el mismo punto de partida (manga base) hacia diferentes tipos de diseño, bajo una misma tipología. 
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-sm-9
         .titulo-sexto.color-acento-contenido
           h5 Figura 51. 
           span Tipos de mangas
@@ -440,7 +440,7 @@
       h2 3.7 Trazo de vestido de noche
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-sm-7
         .titulo-sexto.color-acento-contenido
           h5 Figura 55. 
           span Pantalón de dama
@@ -454,7 +454,7 @@
             .cajon.color-primario.p-4.mb-4
               p La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
           
-          .col-lg-4.col-6
+          .col-lg-4.col-6.col-sm-5
             img(src='@/assets/curso/temas/tema3/img36.svg', alt='')
     
       p En el video presentado a continuación, se detalla el proceso para la interpretación: 
@@ -471,7 +471,7 @@
       .col-lg-8
         p #[b Los overoles o también llamados por su uso casual para las mujeres como enterizos han cobrado especial desarrollo en la línea femenina], creando diseños multifuncionales. #[b Una de las medidas de especial atención por el patronista es el tiro], el cual debe verificarse conforme a la metodología planteada y teniendo en cuenta el material a usar. El patronista debe analizar la horma necesaria para que corresponda con el diseño planteado, aplicando los desarrollos de las piezas en amplitudes o ajustes dado el caso. 
         p En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
-      .col-lg-4
+      .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema3/img38.png', alt='')
     
     .py-4 

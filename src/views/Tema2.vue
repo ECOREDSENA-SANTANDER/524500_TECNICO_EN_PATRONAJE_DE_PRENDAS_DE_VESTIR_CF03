@@ -65,7 +65,7 @@
                   i
                   | #[b 5.  Despiece]
           
-            .col-lg-4.col-8
+            .col-lg-4.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
       p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
 
@@ -83,7 +83,7 @@
         p Para elaborar los planos del manual de patronaje del SENA, es fundamental comenzar desde los fundamentos establecidos en los componentes previos. Este enfoque permite internalizar el análisis del manual, siguiendo la metodología del SENA. A lo largo del proceso, se encontrará con guías y ejemplos que detallan la implementación de cada paso del patronaje.
         p En la página 66 del manual, se presenta un plano de referencia para el trazo de una camisa clásica. Este plano incluye elementos como desahogos, sistemas de cierre y complementos (como almillas, prenses y bolsillos de parche). Es importante entender que este plano sirve únicamente como una guía o referencia sobre cómo implementar la base. No proporciona especificaciones ni estándares para el trazado de una camisa en particular.
         p Es esencial tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen cuenta con referencias específicas. Estas referencias están alineadas con los conceptos de diseño y los requisitos necesarios para la producción.
-      .col-lg-3
+      .col-lg-3.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 35.
           span Camisa Clásica
@@ -105,15 +105,16 @@
       .py-4
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-4
+      .col-lg-4.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 36.
           span Camisa #[em slim fit]
         img(src='@/assets/curso/temas/tema2/img06.svg', alt='')
       .col-lg-8 
-        .col-lg-2.col-6
+        .col-lg-2.col-4
           img.px-4(src='@/assets/curso/temas/tema2/img05.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ') 
-        .col-lg-10
+        .py-2
+        .col-lg-12
           p Lo primero para tener en cuenta es el manejo de los básicos, dependiendo del tipo de silueta, en este caso, #[b se sugiere trabajar el básico de silueta #[em slim fit]], con el fin de manejar la horma de acuerdo con las siluetas anteriormente trabajadas.
           p Para el trazo de camisa #[b #[em slim fit] en la página 69 del manual encontrará un plano de referencia], en el plano identificará elementos como sistemas de cierre y complementos (almillas); #[b este plano es solo una guía o una referencia de cómo se puede implementar la base #[em slim fit]], no hace referencia a especificaciones o estándares para el trazo de una camisa slim fit, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción.
 
@@ -180,10 +181,10 @@
           p La sumatoria al final permite identificar que por la silueta una de las dos mangas quedará con mayor desestructura sobre el cuerpo.
           p En #[b el largo de manga se identifican referencias o disminuciones, dependiendo del comportamiento y ancho de puño], cada una de las medidas son únicamente referencias, recuerde que usted debe #[b tener en cuenta siempre los requerimientos del diseño] y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
           p Para el desarrollo de #[b la portañuela, prenses, pliegues y demás complementos de la manga se debe tener en cuenta siempre el diseño y la referencia de la prenda], este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
-        .col-lg-4
+        .col-lg-4.col-8.col-sm-5
           img(src='@/assets/curso/temas/tema2/img27.svg')
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-2.col-6
+        .col-lg-2.col-6.col-sm-4
           img(src='@/assets/curso/temas/tema2/regla.svg')
         .col-lg-10
           p Para el trazo de cuellos se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va a trabajar.
@@ -222,7 +223,7 @@
       figcaption Video: Leyenda del video 
       .py-4
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-1.col-4
+        .col-lg-1.col-4.col-sm-3
           img(src='@/assets/curso/temas/tema2/regla2.svg').py-3
         .col-lg-10
           p Con respecto a lo anterior, en el #[b patronaje del pantalón clásico masculino partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
@@ -237,11 +238,11 @@
         .col-lg-8
           p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre se debe partir de las bases o básicos que se han desarrollado en componentes anteriores, con el fin de apropiar el análisis del manual, #[b todo se irá desarrollando dentro del marco de la metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
           p Para el trazo de pantalón clásico en la página 79 del manual encontrará un plano de referencia, #[b en el plano identificará elementos como desahogos, sistemas de cierre y complementos] (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) #[b este plano es solo una guía o una referencia de cómo se puede implementar la base inferior de pantalón], no hace referencia a especificaciones o estándares para el trazo de un pantalón formal o clásico, debe tener en cuenta que #[b cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
-        .col-lg-4.col-8
+        .col-lg-4.col-8.col-sm-5
           img(src='@/assets/curso/temas/tema2/img17.svg', alt='')
       
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-6
+        .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido
             h5 Figura 37.
             span Pantalón clásico
@@ -260,7 +261,7 @@
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-9.bglila.p-4
           .row.justify-content-center.align-items-center(data-aos="fade-left")
-            .col-lg-2.col-6
+            .col-lg-2.col-6.col-sm-4
               img(src='@/assets/curso/temas/tema2/img19.svg', alt='')
             .col-lg-9
               p Con respecto a lo anterior, en #[b el patronaje del pantalón clásico masculino partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como #[b la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje] para tener especial atención.
@@ -270,14 +271,14 @@
         h2 2.4 Trazo de pantalón tipo #[em jean slim fit]
   
       .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
-        .col-lg-4.col-8
+        .col-lg-4.col-8.col-sm-5
           img(src='@/assets/curso/temas/tema2/img20.svg', alt='').py-4
         .col-lg-8
           p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre #[b se debe partir de las bases o básicos que se han desarrollado en componentes anteriores], con el fin de apropiar el análisis del manual, #todo se irá desarrollando dentro del marco de la #[b metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
           p Para el trazo de pantalón tipo #[em jean] silueta #[em slim fit] (ajustado) en la página 80 del manual #[b encontrará un plano de referencia, en el plano identificará elementos como ajustes, sistemas de cierre y complementos (pasadores, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de parche, pretina recta, cotilla)] este plano es solo una guía o una referencia de cómo se puede implementar la base inferior del pantalón, #[b no hace referencia a especificaciones o estándares para el trazo de un pantalón ajustado o tipo #[em jean]]; debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
         
       .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
-        .col-lg-6
+        .col-lg-6.col-9
           .titulo-sexto.color-acento-contenido
               h5 Figura 38.
               span Pantalón tipo jean - silueta #[em slim fit]
@@ -299,16 +300,16 @@
       #t_2_5.titulo-segundo.color-primario
         h2 2.5 Base sastre masculina
       
-      .row.justify-content-center.align-items-center(data-aos="fade-left")
+      .row.justify-content-center(data-aos="fade-left")
         .col-lg-12
           p En masculino el nivel de dificultad frente al desarrollo de prendas de vestir depende del nivel y el requerimiento, si bien a nivel nacional, #[b la creatividad e innovación en el vestuario no es vanguardista, sino que va más hacia un perfil clásico o neo tradicional], la calidad y horma que se exige hace que se deba categorizar cada uno de los requerimientos y solicitudes, si bien en masculino en el común denominador de las prendas no se trabajan volúmenes superiores como circunferencias en busto o ajuste en glúteos, se trabajan elementos de ajuste que van de la mano con la postura o tipo de prenda.
       
-      .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
-        .col-lg-6.col-8
+      .row.justify-content-center(data-aos="fade-left").py-4
+        .col-lg-6.col-12
           p En masculino cuando se habla de sastrería #[b se trabaja todo lo referenciado a la postura, es decir, el comportamiento de una chaqueta sastre está diseñado, trazado y patronado para mejorar o reforzar la postura de la persona], todo esto se logra por una serie de ajustes y traslados en cada una de las medidas del cuerpo, permitiendo que únicamente con el patronaje se logre estilizar la figura, silueta y postura.
           p #[b Para el desarrollo de la base sastre masculina se acudirá a las referencias y pasos generales implementados en el trazo de los básicos clásicos y #[em slim fit.]]
           .border-lila.p-4
-            .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
+            .row.justify-content-center(data-aos="fade-left").py-4
               .col-lg-10
                 p Lo primero que se debe hacer es tomar las siguientes referencias:
                 ul.lista-ul--color.lista-ul--separador
@@ -330,7 +331,7 @@
                   li 
                     i.fas.fa-atom 
                     | #[b Tipo de papel sugerido: cartón cartulina o cartulina ]
-        .col-lg-5
+        .col-lg-6.col-9.p-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 39. 
             span Base para chaqueta sastre
@@ -339,7 +340,7 @@
     p.text-center Recuerde que los básicos superiores siempre se trabajan partiendo desde un rectángulo e identificando los siguientes puntos:
     .py-2
     .row.justify-content-center(data-aos="fade-left")
-      .col-lg-8
+      .col-lg-9
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.imgsize(src='@/assets/curso/temas/tema2/img24.svg' alt='AvatarTop')
@@ -352,7 +353,7 @@
 
     .py-2
     .row.justify-content-center(data-aos="fade-left")
-      .col-lg-5
+      .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.imgsize(src='@/assets/curso/temas/tema2/img25.svg' alt='AvatarTop')

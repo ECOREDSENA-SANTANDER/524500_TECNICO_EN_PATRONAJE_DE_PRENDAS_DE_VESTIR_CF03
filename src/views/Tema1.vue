@@ -23,7 +23,7 @@
     
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-        .col-lg-1.col-6
+        .col-lg-1.col-6.col-sm-3
           img(src='@/assets/curso/temas/tema1/img04.svg', alt='')
         .col-lg-11
           p Las escalas más comunes en patronaje son a mitad (1/2) de escala o cuarto (1/4) de escala, en el mercado se encuentran juegos de reglas con el tamaño o las escalas referenciadas; pero, no solo se puede trabajar en esas dos escalas, es decir, en algunos casos se trabaja a quinta (1/5) o a sexta (1/6) escala.
@@ -61,7 +61,7 @@
       
         .cajon.color-acento-contenido.p-4.mb-5
           .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-            .col-lg-2.col-6
+            .col-lg-2.col-6.col-sm-3
               img(src='@/assets/curso/temas/tema1/img04.svg', alt='')
             .col-lg-10
               p En la metodología SENA estos son los únicos puntos de partida para hacer cualquier análisis, trazo, molde o plano de una prenda. Los básicos deben estar separados (delantero – posterior) y sin ningún tipo de alteración, preferiblemente en un material resistente como el cartón cartulina, cartulina o acetato.
@@ -197,7 +197,7 @@
     
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
-        .col-lg-2.col-6
+        .col-lg-2.col-6.col-sm-3
           img(src='@/assets/curso/temas/tema1/img004.svg', alt='')
         .col-lg-9
           p Con el fin de apropiar e identificar cada uno de los pasos anteriormente mencionados se dará inicio al trazo de una prenda superior, la cual irá cambiando su categorización a medida que se avance, es decir, en este primer trazo se hará el trazo de una especie de chaleco, el cual irá evolucionando a medida que se avance con las mangas, cuellos, puños y demás, hasta obtener una camisa debidamente señalizada y despiezada; es importante que tenga claro que este primer paso es el punto de partida para continuar con los siguientes.
@@ -392,7 +392,7 @@
             p Dentro de las variaciones más comunes encontradas en mangas se identifican los puños y las portañuelas, en infantil y masculino suelen ser utilizadas en el análisis o la interpretación de prendas superiores por camisas, chaquetas, vestidos y demás.
     .py-4
     .row.justify-content-center(data-aos="fade-left")
-      .col-lg-1.col-6
+      .col-lg-1.col-6.col-sm-3
         img(src='@/assets/curso/temas/tema1/img23.svg', alt='').py-4
       .col-lg-10
         p Al dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de modificaciones en manga se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano #[b “chaleco”] y las cabezas de manga, es decir, que #[b siempre en este punto las mangas y modificaciones hacen parte de los complementos] en los pasos del patronaje.
@@ -458,7 +458,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
         p son cuellos que se caracterizan porque combinan el comportamiento de los dos anteriores, esto es, una parte del cuello (delantero – posterior) #[b abraza el cuello y se mantiene “levantado”] sobre la estructura y la otra parte (delantero – posterior) descansa sobre el cuerpo, es decir, no se mantiene “levantado” sobre la estructura del cuello; este tipo de cuellos suelen salir en la parte que descansa sobre el cuerpo sin ningún corte, sino como una extensión de la prenda, y la parte que abraza el cuello con corte de unión en escote. Desde plano suelen salir sobre el mismo trazo de la prenda. 
-      .col-lg-4
+      .col-lg-4.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 20.
           span  cuello por extensión.
@@ -478,7 +478,7 @@
       h2 1.5 Despiece de planos
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-9.p-2
         .titulo-sexto.color-acento-contenido
           h5 Figura 21.
           span  Despiece
@@ -605,12 +605,12 @@
     
     p El sistema de ajuste en los pantalones infantiles más recomendado es el encauchado, #[b se emplea en pretinas y botas], en el caso de pretinas puede aplicarse en todo el contorno de la cintura, en el posterior o solo en los costados, generando seguridad; pero se debe tener en cuenta que se equilibre con el confort y facilite  gran movilidad del usuario, por tanto, que no genere incomodidad o afecte la piel del infante.
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3
+        .col-lg-3.col-8.p-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 31.
             span.text-small Piezas del sistema de cierre
           img(src='@/assets/curso/temas/tema1/img.png', alt='')
-        .col-lg-9.col-7
+        .col-lg-9.col-8.p-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 32.
             span.text-small Aletilla y aletillón
@@ -642,7 +642,7 @@
         p En el proceso de elaboración de los patrones, se incorporarán elementos como la horcajadura, que proporciona la holgura necesaria al unir los básicos superiores e inferiores. Esta adición de espacio es funcional, es decir, es esencial para que la prenda se ajuste al cuerpo sin inconvenientes y cumpla su función adecuadamente.
         p Es importante tener en cuenta que en el ámbito comercial se emplean diversos términos para describir los detalles y complementos de las prendas. Sin embargo, en este caso nos centraremos en aspectos funcionales sin entrar en especificaciones de nombres comerciales.
         p Debe tener en cuenta que a nivel comercial #[b existen diversos nombres para cada uno de los detalles y complementos de las prendas;] sin embargo, en este caso se trabajará desde la parte funcional sin especificar los nombres comerciales.
-      .col-lg-4.col-8
+      .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema1/img48.svg', alt='')
     p En el siguiente video se detalla el trazo para este tipo de prenda:
     figure.mb-5(data-aos="zoom-in-left")
