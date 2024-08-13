@@ -12,7 +12,7 @@
       p En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje de acuerdo con la metodología SENA.
     .row.justify-content-center(data-aos="zoom-in-rigth")
       .col-lg-12.col-12
-        img(src='@/assets/curso/temas/tema1/img03.svg', alt='')
+        img(src='@/assets/curso/temas/tema1/img03.png', alt='')
 
     Separador  
     #t_1_1.titulo-segundo.color-primario
@@ -103,7 +103,7 @@
           .col-md-9
             ul.lista-ul.mb-4
               li
-                i.fas.fa-check-circle 
+                i.fas.fa-atom
                 | Largo de la prenda, en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado, esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores; debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
           .col-md-7.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
@@ -118,7 +118,7 @@
           .col-md-9
               ul.lista-ul.mb-4
                 li
-                  i.fas.fa-check-circle 
+                  i.fas.fa-atom
                   | Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno)
           .col-md-4.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
@@ -132,7 +132,7 @@
           .col-md-9
             ul.lista-ul.mb-4
               li
-                i.fas.fa-check-circle 
+                i.fas.fa-atom
                 | #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
           .col-md-4.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
@@ -478,7 +478,7 @@
       h2 1.5 Despiece de planos
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.col-9.p-2
+      .col-lg-4.col-9.p-2
         .titulo-sexto.color-acento-contenido
           h5 Figura 21.
           span  Despiece
@@ -517,17 +517,21 @@
           span  márgenes de costuras
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        img(src='@/assets/curso/temas/tema1/banner.svg', alt='La imagen es un collage de tres secciones relacionadas con la confección de ropa. En la parte superior, hay un patrón de corte azul para una camisa con múltiples piezas etiquetadas y medidas especificadas. En la sección del medio, se muestra un esquema de instrucciones de costura amarillo con dibujos de prendas, símbolos de costura y números, que parecen ser pasos o partes de un conjunto de instrucciones para confeccionar una prenda. La tercera sección en la parte inferior muestra una fotografía de un tejido o costura, posiblemente ilustrando la textura o la calidad del acabado de un detalle de confección.')
+        img(src='@/assets/curso/temas/tema1/figura23.png', alt='La imagen es un collage de tres secciones relacionadas con la confección de ropa. En la parte superior, hay un patrón de corte azul para una camisa con múltiples piezas etiquetadas y medidas especificadas. En la sección del medio, se muestra un esquema de instrucciones de costura amarillo con dibujos de prendas, símbolos de costura y números, que parecen ser pasos o partes de un conjunto de instrucciones para confeccionar una prenda. La tercera sección en la parte inferior muestra una fotografía de un tejido o costura, posiblemente ilustrando la textura o la calidad del acabado de un detalle de confección.')
     
     .py-4
-    .row.justify-content-center.align-items-center.mb-5.bgamarillo.py-4 
-      .col-lg-7.p-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-7.bgamarillo.p-4
+        br
+        br
         ul.lista-ul--color.lista-ul--separador 
           li 
-            i.fas.fa-circle 
+            i.fas.fa-atom 
             span.txtlila #[b Señalización:]
             | la señalización del plano y el molde debe ir de acuerdo con las especificaciones de diseño; la señalización incluye nombre del diseño o referencia, el hilo de tela, piquetes, bolsillos, nombre de la pieza, cantidad a cortar; la señalización es la lectura a nivel general del molde.
-      .col-lg-4.col-8
+        br
+        br
+      .col-lg-3.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 24.
           span  márgenes de costura
@@ -554,7 +558,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 25.
             span prendas infantiles
-        img(src="@/assets/curso/temas/tema1/banner2.svg", alt="Texto alternativo: la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
+        img(src="@/assets/curso/temas/tema1/figura25.png", alt="Texto alternativo: la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
     
     
     p En el siguiente video se presenta de manera detallada la forma en que se debe realizar el trazo de las prendas superiores, basándose en prendas de vestir infantiles:
@@ -585,7 +589,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 29.
           span Prendas inferiores infantiles
-        img(src='@/assets/curso/temas/tema1/img44.svg', alt='La imagen muestra dos prendas de vestir diferentes. A la izquierda, hay unos pantalones de color verde oliva, en tela denim, con un corte clásico y cinco bolsillos. A la derecha, hay unos shorts de mezclilla de color azul claro. Estos shorts tienen un diseño desgastado con deshilachados en el dobladillo y detalles de perlas y rasgaduras decorativas en la tela. Estas dos prendas representan estilo para niño y niña. Los pantalones siendo más tradicionales y los shorts más modernos y casuales.')
+        img(src='@/assets/curso/temas/tema1/figura29.png', alt='La imagen muestra dos prendas de vestir diferentes. A la izquierda, hay unos pantalones de color verde oliva, en tela denim, con un corte clásico y cinco bolsillos. A la derecha, hay unos shorts de mezclilla de color azul claro. Estos shorts tienen un diseño desgastado con deshilachados en el dobladillo y detalles de perlas y rasgaduras decorativas en la tela. Estas dos prendas representan estilo para niño y niña. Los pantalones siendo más tradicionales y los shorts más modernos y casuales.')
     
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -609,12 +613,12 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 31.
             span.text-small Piezas del sistema de cierre
-          img(src='@/assets/curso/temas/tema1/img.png', alt='')
+          img(src='@/assets/curso/temas/tema1/figura31.png', alt='')
         .col-lg-9.col-8.p-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 32.
             span.text-small Aletilla y aletillón
-          img(src='@/assets/curso/temas/tema1/img45.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/figura32.png', alt='')
 
     p En video a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
     figure.mb-5(data-aos="zoom-in-left")

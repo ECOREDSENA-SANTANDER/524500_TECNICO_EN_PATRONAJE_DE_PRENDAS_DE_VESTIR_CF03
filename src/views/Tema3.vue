@@ -50,7 +50,7 @@
                   | #[b 5.  Despiece]
             
             .col-lg-5.col-8.col-sm-5
-              img(src='@/assets/curso/temas/tema3/img01.svg', alt='')  
+              img(src='@/assets/curso/temas/tema3/img01.png', alt='')  
 
     Separador  
     #t_3_1.titulo-segundo.color-primario
@@ -225,7 +225,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 44. 
           span tipos de escotes
-        img(src='@/assets/curso/temas/tema3/banner.svg', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
+        img(src='@/assets/curso/temas/tema3/banner.png', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
         
   
     p Los nombres de la forma varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo.
@@ -357,7 +357,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 51. 
           span Tipos de mangas
-        img(src='@/assets/curso/temas/tema3/img35.svg', alt='La imagen muestra seis representaciones de blusas, combinando ilustraciones de diseño y fotografías de productos reales. Las tres imágenes superiores son dibujos técnicos que detallan diferentes estilos de mangas en blusas con botones: una con un diseño largo, manga larga y hombros destapados, otra con un diseño clásico, mangas anchas y recogidas en la muñeca y otra con mangas anchas con vuelo. Las tres imágenes inferiores son fotografías de blusas: una de mezclilla con mangas abullonadas, otra a rayas con un diseño moderno, con las mangas ajustadas en la muñeca y cinturón con boleros, y una última en color beige con mangas anchas y con vuelo fluido. Este conjunto muestra una variedad de estilos y detalles en las blusas, ilustrando tanto los aspectos técnicos del diseño como su aplicación en prendas confeccionadas.')
+        img(src='@/assets/curso/temas/tema3/img27.png', alt='La imagen muestra seis representaciones de blusas, combinando ilustraciones de diseño y fotografías de productos reales. Las tres imágenes superiores son dibujos técnicos que detallan diferentes estilos de mangas en blusas con botones: una con un diseño largo, manga larga y hombros destapados, otra con un diseño clásico, mangas anchas y recogidas en la muñeca y otra con mangas anchas con vuelo. Las tres imágenes inferiores son fotografías de blusas: una de mezclilla con mangas abullonadas, otra a rayas con un diseño moderno, con las mangas ajustadas en la muñeca y cinturón con boleros, y una última en color beige con mangas anchas y con vuelo fluido. Este conjunto muestra una variedad de estilos y detalles en las blusas, ilustrando tanto los aspectos técnicos del diseño como su aplicación en prendas confeccionadas.')
     p El siguiente video describe las interpretaciones de manga, teniendo en cuenta lo sugerido en el manual de patronaje básico:
     .py-2
       figure.mb-5(data-aos="zoom-in-left")
@@ -384,7 +384,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 52. 
           span Diseños de falda
-        img(src='@/assets/curso/temas/tema3/img28.svg', alt='La imagen muestra tres tipos de prendas femeninas, específicamente dos faldas y un vestido, cada una con un diseño distinto: 1. Falda de botones color canela: La primera imagen muestra una falda corta de color canela con botones delanteros, combinada con medias negras, presentando un estilo juvenil y casual. 2. Falda de mezclilla acampanada: La segunda imagen es de una falda de mezclilla con un corte acampanado y un dobladillo deshilachado, un diseño informal y versátil. 3. Vestido largo con estampado floral: La tercera imagen presenta un vestido largo azul con un estampado floral grande en tonos de blanco y amarillo, destacando por su corte elegante y estilizado con escote en V. Estas prendas ilustran variados estilos y usos, desde opciones casuales y cotidianas hasta opciones más formales y elegantes.')
+        img(src='@/assets/curso/temas/tema3/img28.png', alt='La imagen muestra tres tipos de prendas femeninas, específicamente dos faldas y un vestido, cada una con un diseño distinto: 1. Falda de botones color canela: La primera imagen muestra una falda corta de color canela con botones delanteros, combinada con medias negras, presentando un estilo juvenil y casual. 2. Falda de mezclilla acampanada: La segunda imagen es de una falda de mezclilla con un corte acampanado y un dobladillo deshilachado, un diseño informal y versátil. 3. Vestido largo con estampado floral: La tercera imagen presenta un vestido largo azul con un estampado floral grande en tonos de blanco y amarillo, destacando por su corte elegante y estilizado con escote en V. Estas prendas ilustran variados estilos y usos, desde opciones casuales y cotidianas hasta opciones más formales y elegantes.')
     
     p En el siguiente video, se realiza una explicación detallada acerca del trazo de falda:
      
@@ -428,7 +428,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 54. 
           span Vestido de noche 
-        img(src='@/assets/curso/temas/tema3/img54.svg', alt='En la figura se presentan dos fotografías de mujeres luciendo vestidos de gala de color blanco.')
+        img(src='@/assets/curso/temas/tema3/figura54.png', alt='En la figura se presentan dos fotografías de mujeres luciendo vestidos de gala de color blanco.')
     p En el siguiente video, se presenta el proceso para realizar el trazo del vestido de noche:
     figure.mb-5(data-aos="zoom-in-left")
         .video
@@ -468,11 +468,11 @@
       h2 3.8 Interpretación de overoles
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-9
         p #[b Los overoles o también llamados por su uso casual para las mujeres como enterizos han cobrado especial desarrollo en la línea femenina], creando diseños multifuncionales. #[b Una de las medidas de especial atención por el patronista es el tiro], el cual debe verificarse conforme a la metodología planteada y teniendo en cuenta el material a usar. El patronista debe analizar la horma necesaria para que corresponda con el diseño planteado, aplicando los desarrollos de las piezas en amplitudes o ajustes dado el caso. 
-        p En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
-      .col-lg-4.col-8.col-sm-6
-        img(src='@/assets/curso/temas/tema3/img38.png', alt='')
+      .col-lg-3.col-8.col-sm-6
+        img(src='@/assets/curso/temas/tema3/img388.png', alt='')
+    p En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
     
     .py-4 
       figure.mb-5(data-aos="zoom-in-left")

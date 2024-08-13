@@ -32,10 +32,10 @@
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
       h3.py-2.w-card-text Pasos del patronaje – implementación de básicos y desarrollo de modelos
     
-    .row.justify-content-center
+    .row.justify-content-center.p-4
       .col-lg-8
         .border-lila
-          .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
+          .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
             .col-lg-6
               ul.lista-ul--color.lista-ul--separador
                 li 
@@ -47,13 +47,13 @@
                 li.pb-0
                   ul
                     li 
-                      i
+                      i.fas.fa-atom
                       | Desahogos – contorno. Largos y anchos
                     li 
-                      i
+                      i.fas.fa-atom
                       | Sistema de ajuste
                     li 
-                      i
+                      i.fas.fa-atom
                       | Sistema de cierre
                 li 
                   i
@@ -65,7 +65,7 @@
                   i
                   | #[b 5.  Despiece]
           
-            .col-lg-4.col-8.col-sm-5
+            .col-lg-6.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
       p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
 
@@ -182,7 +182,7 @@
           p En #[b el largo de manga se identifican referencias o disminuciones, dependiendo del comportamiento y ancho de puño], cada una de las medidas son únicamente referencias, recuerde que usted debe #[b tener en cuenta siempre los requerimientos del diseño] y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
           p Para el desarrollo de #[b la portañuela, prenses, pliegues y demás complementos de la manga se debe tener en cuenta siempre el diseño y la referencia de la prenda], este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
         .col-lg-4.col-8.col-sm-5
-          img(src='@/assets/curso/temas/tema2/img27.svg')
+          img(src='@/assets/curso/temas/tema2/1.png')
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-2.col-6.col-sm-4
           img(src='@/assets/curso/temas/tema2/regla.svg')
@@ -213,7 +213,7 @@
           p Es importante plantear en esta prenda algunos detalles importantes, lo cual influye en el patronaje. #[b La camisa es concebida de uso exclusivo de los caballeros, ha ido evolucionando no solo en la silueta], además presenta modificaciones en los cuellos, los cuales han ido tomando nombres conforme al sitio de su procedencia, generando varios tipos, se habla del #[b cuello inglés, francés entre otros, incluso otros diseños como cuello nerú], alto, planteados para diversificar el estilo y por tanto, se desarrolla el patronaje. Asimismo, se presentan diferencias en varias partes como en las mangas y complementos como bajantes (pecheras o botoneras), almillas, puño y portañuelas. #[b El patronista debe considerar este tipo de alternativas para trazar sus patrones.]
           p La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
         .col-lg-12
-          img(src='@/assets/curso/temas/tema2/img28.svg')
+          img(src='@/assets/curso/temas/tema2/4.png')
     .py-3
     p En el siguiente video se explica el trazo de prendas superiores:
     
@@ -239,7 +239,7 @@
           p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre se debe partir de las bases o básicos que se han desarrollado en componentes anteriores, con el fin de apropiar el análisis del manual, #[b todo se irá desarrollando dentro del marco de la metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
           p Para el trazo de pantalón clásico en la página 79 del manual encontrará un plano de referencia, #[b en el plano identificará elementos como desahogos, sistemas de cierre y complementos] (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) #[b este plano es solo una guía o una referencia de cómo se puede implementar la base inferior de pantalón], no hace referencia a especificaciones o estándares para el trazo de un pantalón formal o clásico, debe tener en cuenta que #[b cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
         .col-lg-4.col-8.col-sm-5
-          img(src='@/assets/curso/temas/tema2/img17.svg', alt='')
+          img(src='@/assets/curso/temas/tema2/2.png', alt='')
       
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-6.col-9
@@ -272,7 +272,7 @@
   
       .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
         .col-lg-4.col-8.col-sm-5
-          img(src='@/assets/curso/temas/tema2/img20.svg', alt='').py-4
+          img(src='@/assets/curso/temas/tema2/3.png', alt='').py-4
         .col-lg-8
           p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre #[b se debe partir de las bases o básicos que se han desarrollado en componentes anteriores], con el fin de apropiar el análisis del manual, #todo se irá desarrollando dentro del marco de la #[b metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
           p Para el trazo de pantalón tipo #[em jean] silueta #[em slim fit] (ajustado) en la página 80 del manual #[b encontrará un plano de referencia, en el plano identificará elementos como ajustes, sistemas de cierre y complementos (pasadores, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de parche, pretina recta, cotilla)] este plano es solo una guía o una referencia de cómo se puede implementar la base inferior del pantalón, #[b no hace referencia a especificaciones o estándares para el trazo de un pantalón ajustado o tipo #[em jean]]; debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
