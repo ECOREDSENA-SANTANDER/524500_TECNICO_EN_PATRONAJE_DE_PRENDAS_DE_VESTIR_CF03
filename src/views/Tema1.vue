@@ -10,9 +10,35 @@
     .row.justify-content-center(data-aos="zoom-in-rigth")
       p Para la implementación y modificación de básicos es importante tener claridad de cada uno de los conceptos de patronaje como medidas, pasos, elementos y vocabulario técnico, lo cual se irá implementando en el desarrollo de los trazos, moldes o planos, lo que a futuro permitirá realizar patrones y producción de prendas de vestir.
       p En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje de acuerdo con la metodología SENA.
-    .row.justify-content-center(data-aos="zoom-in-rigth")
-      .col-lg-12.col-12
-        img(src='@/assets/curso/temas/tema1/img03.png', alt='')
+    
+    .row.justify-content-center(data-aos="zoom-in-rigth").azulbebe.p-4
+      .col-lg-7
+        h3 Pasos del patronaje – Implementación de básicos y desarrollo de modelos
+        .row(data-aos="zoom-in-rigth").p-4
+          .col-lg-7
+            p 1. Básicos
+            hr 
+            p 2. Interpretación
+            ul.lista-ul.mb-4
+              li
+                i.fas.fa
+                |° Desahogos – Contorno. Largos y anchos
+              li
+                i.fas.fa
+                |° Sistema de ajuste
+              li
+                i.fas.fa
+                |° Sistema de cierre
+            hr
+          .col-lg-5
+            p 3. Complementos
+            hr 
+            p 4. Señalización
+            hr 
+            p 5. Despiece
+            hr
+      .col-lg-3.col-8.col-sm-6
+        img(src='@/assets/curso/temas/tema1/1.png', alt='')
 
     Separador  
     #t_1_1.titulo-segundo.color-primario
@@ -82,7 +108,7 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             p #[b Desahogos:]  Los desahogos se trabajan por contornos, largos y anchos. Las medidas anatómicas corresponden a la base o básico, este punto de partida no tiene incrementos u holguras para el desarrollo de prendas, es decir, que dependiendo de la funcionabilidad de la prenda o del diseño se debe incrementar medidas que funcionan como holguras o desahogos. 
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 2.
               span Desahogos
@@ -91,7 +117,7 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             p #[b Desahogo por contorno:]  Los desahogos por contorno corresponden a todo incremento de medidas que se den por contorno de pecho, contorno de cintura y contorno de cadera, únicamente se referencian estos 3 contornos porque son los que abrazan o conforman los contornos más protuberantes del cuerpo. En las prendas superiores, el desahogo se trabaja a partir del contorno de pecho, es decir, en plano sobre línea de profundidad de sisa. 
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-md-6.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 3.
               span Desahogo contorno
@@ -105,7 +131,7 @@
               li
                 i.fas.fa-atom
                 | Largo de la prenda, en la metodología SENA, los largos de las prendas se trabajan siempre por costado, tomando como referencia el punto de cintura costado, esto es, si se va a trabajar el largo de un vestido, el largo se define desde el punto de cintura costado hacia las extremidades inferiores; debido a la toma de medidas y a las referencias anatómicas del cuadro de tallas. 
-          .col-md-7.mb-3.mb-md-0.p-4
+          .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 4.
               span Desahogo largo de la prenda
@@ -120,7 +146,7 @@
                 li
                   i.fas.fa-atom
                   | Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno)
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-md-6.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 5.
               span  Desahogo por línea de profundidad de sisa
@@ -134,7 +160,7 @@
               li
                 i.fas.fa-atom
                 | #[b Desahogo por hombro:] los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, es decir, los desahogos por hombro corresponden al incremento que se aplica al desahogo por contorno.
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 6.
               span Desahogo por hombro
@@ -144,7 +170,7 @@
           .col-md-10
             .py-4
               p #[b Sistema de ajuste:] son todos los ajustes (pinza o corte) que se le dan a la prenda, en este caso para una prenda infantil no se trabajará o enfocará a sistemas de ajuste, los sistemas de ajuste se trabajarán en la línea femenina, para tener una mejor comprensión y aprovechamiento de las pinzas. 
-          .col-md-3.mb-3.mb-md-0.p-4
+          .col-md-6.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 7.
               span Desahogo por ancho de pecho y espalda
@@ -156,7 +182,7 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             p #[b Sistema de ajuste:] son todos los ajustes (pinza o corte) que se le dan a la prenda, en este caso para una prenda infantil no se trabajará o enfocará a sistemas de ajuste, los sistemas de ajuste se trabajarán en la línea femenina, para tener una mejor comprensión y aprovechamiento de las pinzas. 
-          .col-md-7.mb-3.mb-md-0.p-4
+          .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 8.
               span Sistema de ajuste
@@ -166,7 +192,7 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             p #[b Sistema de cierre:]  este punto es lo que permite que la prenda sea funcional, es decir, es lo que hace que la prenda abra o cierre según la tridimensión del cuerpo, en sistemas de cierre aplican: cremalleras, botones, broches, gafetes, acordonados, encauchados y demás, se debe tener en cuenta que cada uno de los sistemas de cierre tienen especificaciones en el trazo, plano o patrón.
-          .col-md-7.mb-3.mb-md-0.p-4
+          .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 9.
               span Sistema de cierre
@@ -203,7 +229,7 @@
           p Con el fin de apropiar e identificar cada uno de los pasos anteriormente mencionados se dará inicio al trazo de una prenda superior, la cual irá cambiando su categorización a medida que se avance, es decir, en este primer trazo se hará el trazo de una especie de chaleco, el cual irá evolucionando a medida que se avance con las mangas, cuellos, puños y demás, hasta obtener una camisa debidamente señalizada y despiezada; es importante que tenga claro que este primer paso es el punto de partida para continuar con los siguientes.
     
     .row.justify-content-center(data-aos="fade-left")
-      .col-md-6.mb-3.mb-md-0.p-4
+      .col-md-5.mb-3.mb-md-0.p-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 11.
           span Trazo de chaleco
@@ -221,7 +247,7 @@
     p Cuando se habla de manga, básicamente se entiende o se identifica como una pieza circular que cubre el brazo; sin embargo, existen diferentes tipos de puntos a tener en cuenta:
     
     .row.mb-5
-      .col-md-4.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
           .tarjeta.cajonlila
@@ -229,7 +255,7 @@
               h3.text-center Largo de manga: 
               p.text-center El largo de manga anatómico es aquel que va desde el punto de acromio hasta la muñeca, se debe tener en cuenta que, sin importar el diseño, largo o forma del cuerpo de la manga, siempre se debe partir desde el largo anatómico.
   
-      .col-md-4.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
           .tarjeta.cajonlila
@@ -237,7 +263,7 @@
               h3.text-center Altura o cabeza de manga:  
               p.text-center Cuando se habla de cabeza de manga se identifican diferentes tipos de medidas, se puede trabajar con medida de cuadro de tallas, medida deducida o estandarizada. Se debe tener en cuenta que el largo de manga siempre será el mismo, sin importar qué tipo de prenda o cabeza de manga se implemente.
 
-      .col-md-4.col-lg.mb-5.mb-lg-0
+      .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
           .tarjeta.cajonlila
@@ -326,7 +352,7 @@
     
     
     .row.justify-content-center(data-aos="fade-left")
-      .col-md-4.mb-3.mb-md-0.p-4.cajonlila
+      .col-lg-4.col-8.col-sm-8.p-4.cajonlila
         h3.text-center Recorrido sisa delantera
         hr.hblanco
         h3.text-center Recorrido sisa posterior
@@ -341,7 +367,7 @@
     
     
     .row.justify-content-center(data-aos="fade-left")
-      .col-md-4.mb-3.mb-md-0.p-4
+      .col-lg-4.col-9.col-sm-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 15.
           span Trazo de manga
@@ -377,18 +403,18 @@
     .bgamarillo.py-4
       SlyderA(tipo="a").p-4
         .row.justify-content-center.align-items-center(data-aos="fade-left")
-          .col-md-3.mb-3.mb-md-0.p-4
+          .col-lg-3.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
               span  Tipo de manga.
             img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
-          .col-md-5
+          .col-md-5.col-lg-6
             p Estos son solo algunos de todos los que existen, es importante mencionar que #[b en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial], es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se #[b trabajará el nombre funcional] o que aplica con las referencias del cuerpo.
         
         .row.justify-content-center.align-items-center(data-aos="fade-left")
-          .col-md-3.mb-3.mb-md-0.p-4
+          .col-lg-3.col-8.col-sm-6
             img(src='@/assets/curso/temas/tema1/img22.svg', alt='') 
-          .col-md-5
+          .col-md-5.col-lg-6
             p Dentro de las variaciones más comunes encontradas en mangas se identifican los puños y las portañuelas, en infantil y masculino suelen ser utilizadas en el análisis o la interpretación de prendas superiores por camisas, chaquetas, vestidos y demás.
     .py-4
     .row.justify-content-center(data-aos="fade-left")
@@ -571,7 +597,23 @@
     #t_1_7.titulo-segundo.color-primario
       h2 1.7 Trazo de prendas inferiores – faldas
     p Para el desarrollo del trazo de prendas inferiores - falda, #[b se trabajarán tres imágenes de referencia, sobre estas imágenes se identifican diferentes tipos de pretinas, vuelos y amplitudes.] Asimismo tener en cuenta complementos como bolsillos, tapas y el sistema de cierre adecuado para cumplir su función, sin generar dificultades en el uso por parte del infante.
-
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-8.col-sm-8
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 26. 
+          span Falda sin pretina-falso
+        img(src='@/assets/curso/temas/tema1/001.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
+      .col-lg-4.col-8.col-sm-8
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 27. 
+          span Pretina recta
+        img(src='@/assets/curso/temas/tema1/002.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una falda con pretina anatómica de color gris;  En la segunda imagen se presenta un maniquí sobre el cual se resalta la pretina en color rosa, además se lee: “las pretinas anatómicas, salen con la forma del cuerpo, es decir, se ajustan a la curvatura de la cintura”')
+      .col-lg-4.col-8.col-sm-8
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 28.
+          span  Pretina anatómica
+        img(src='@/assets/curso/temas/tema1/003.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
     p.py-4 A continuación, se presenta el video Trazo de prendas inferiores, con el cual podrá realizar el patronaje de este tipo de prenda.
     .py-2
     figure.mb-5(data-aos="zoom-in-left")

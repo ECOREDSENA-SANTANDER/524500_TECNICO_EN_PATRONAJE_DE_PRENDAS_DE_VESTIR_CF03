@@ -137,12 +137,12 @@
 
 
     .row.justify-content-center-align-items-center(data-aos="fade-left")
-      .col-sm-5.col-lg-5.mb-4.mb-lg-0
+      .col-sm-6.col-lg-5.mb-4.mb-lg-0
         .tarjeta.tarjetablue.p-4
           .col-lg-12
             p #[b Entre más larga] sea la altura de cabeza de manga otorgará menor movimiento sobre el cuerpo = incomodidad, pero mayor estructura, esta descripción corresponde a las prendas que van ajustadas o con la horma del cuerpo.
           .py-4
-      .col-sm-5.col-lg-7.mb-4.mb-lg-0
+      .col-sm-6.col-lg-7.mb-4.mb-lg-0
         .tarjeta.tarjetablue.p-4
           .col-lg-12.col-lg-7
             p #[b Entre más corta] sea la altura de cabeza de manga otorgará mayor movimiento sobre el cuerpo = comodidad, pero menor estructura, esta descripción corresponde a las prendas que van holgadas o desestructuradas sobre el cuerpo.

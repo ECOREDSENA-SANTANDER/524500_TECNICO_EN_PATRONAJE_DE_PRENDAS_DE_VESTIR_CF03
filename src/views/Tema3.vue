@@ -264,42 +264,42 @@
     .bgazul 
       SlyderA(tipo="a")
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-6.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 45. 
               span Chaqueta cuello sastre
             img(src='@/assets/curso/temas/tema3/1.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
           .py-3
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-5.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 46. 
               span Base de manga
             img(src='@/assets/curso/temas/tema3/2.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.') 
             .py-3
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-5.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 47. 
               span  Chaqueta con corte de vuelo
             img(src='@/assets/curso/temas/tema3/3.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
             .py-3
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-5.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 48. 
               span  Camisa clásica
             img(src='@/assets/curso/temas/tema3/4.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
             .py-3
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-5.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 49. 
               span Camisa #[em slim fit]
             img(src='@/assets/curso/temas/tema3/5.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
             .py-3
         .row.justify-content-center(data-aos="fade-left")
-          .col-md-4.mb-3.mb-md-0.p-4
+          .col-lg-5.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 50. 
               span  Base de manga
