@@ -232,12 +232,12 @@
   
       Separador  
       #t_2_3.titulo-segundo.color-primario
-        h2 2.3 Trazo de prendas superiores - camisa 
+        h2 2.3 Trazo de pantalón clasico masculino
   
       .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
         .col-lg-8
           p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre se debe partir de las bases o básicos que se han desarrollado en componentes anteriores, con el fin de apropiar el análisis del manual, #[b todo se irá desarrollando dentro del marco de la metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
-          p Para el trazo de pantalón clásico en la página 79 del manual encontrará un plano de referencia, #[b en el plano identificará elementos como desahogos, sistemas de cierre y complementos] (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) #[b este plano es solo una guía o una referencia de cómo se puede implementar la base inferior de pantalón], no hace referencia a especificaciones o estándares para el trazo de un pantalón formal o clásico, debe tener en cuenta que #[b cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
+          p Para el trazo de pantalón clásico, en la página 79 del manual encontrará un plano de referencia, #[b en el plano identificará elementos como desahogos, sistemas de cierre y complementos] (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta) #[b este plano es solo una guía o una referencia de cómo se puede implementar la base inferior de pantalón], no hace referencia a especificaciones o estándares para el trazo de un pantalón formal o clásico, debe tener en cuenta que #[b cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
         .col-lg-4.col-8.col-sm-5
           img(src='@/assets/curso/temas/tema2/2.png', alt='')
       
@@ -249,7 +249,8 @@
           img(src='@/assets/curso/temas/tema2/img18.svg', alt='La figura presenta trazos para pantalón clásico, donde se señalan la línea de la cadera, el largo total del tiro, largo total del pantalón, entre otras.')
 
         .col-lg-12.py-4 
-          p Al tener en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior del pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño del pantalón desde cero.
+          p Al tener en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior del pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño del pantalón desde cero. 
+          p En el siguiente video se presenta esta explicación:
   
   
       figure.mb-5(data-aos="zoom-in-left")
@@ -302,11 +303,11 @@
       
       .row.justify-content-center(data-aos="fade-left")
         .col-lg-12
-          p En masculino el nivel de dificultad frente al desarrollo de prendas de vestir depende del nivel y el requerimiento, si bien a nivel nacional, #[b la creatividad e innovación en el vestuario no es vanguardista, sino que va más hacia un perfil clásico o neo tradicional], la calidad y horma que se exige hace que se deba categorizar cada uno de los requerimientos y solicitudes, si bien en masculino en el común denominador de las prendas no se trabajan volúmenes superiores como circunferencias en busto o ajuste en glúteos, se trabajan elementos de ajuste que van de la mano con la postura o tipo de prenda.
+          p En masculino, el nivel de dificultad frente al desarrollo de prendas de vestir depende del nivel y el requerimiento, si bien a nivel nacional, #[b la creatividad e innovación en el vestuario no es vanguardista, sino que va más hacia un perfil clásico o neo tradicional], la calidad y horma que se exige hace que se deba categorizar cada uno de los requerimientos y solicitudes, si bien en masculino en el común denominador de las prendas no se trabajan volúmenes superiores como circunferencias en busto o ajuste en glúteos, se trabajan elementos de ajuste que van de la mano con la postura o tipo de prenda.
       
       .row.justify-content-center(data-aos="fade-left").py-4
         .col-lg-6.col-12
-          p En masculino cuando se habla de sastrería #[b se trabaja todo lo referenciado a la postura, es decir, el comportamiento de una chaqueta sastre está diseñado, trazado y patronado para mejorar o reforzar la postura de la persona], todo esto se logra por una serie de ajustes y traslados en cada una de las medidas del cuerpo, permitiendo que únicamente con el patronaje se logre estilizar la figura, silueta y postura.
+          p En masculino, cuando se habla de sastrería #[b se trabaja todo lo referenciado a la postura, es decir, el comportamiento de una chaqueta sastre está diseñado, trazado y patronado para mejorar o reforzar la postura de la persona], todo esto se logra por una serie de ajustes y traslados en cada una de las medidas del cuerpo, permitiendo que únicamente con el patronaje se logre estilizar la figura, silueta y postura.
           p #[b Para el desarrollo de la base sastre masculina se acudirá a las referencias y pasos generales implementados en el trazo de los básicos clásicos y #[em slim fit.]]
           .border-lila.p-4
             .row.justify-content-center(data-aos="fade-left").py-4
@@ -346,8 +347,8 @@
             img.imgsize(src='@/assets/curso/temas/tema2/img24.svg' alt='AvatarTop')
           .tarjeta.bglila
             .p-4
-              h5 Parte superior (cuello) – arriba, parte inferior (cintura) – abajo = de arriba hacia abajo
-              h5 Parte derecha – posterior, parte izquierda – delantero = de atrás hacia adelante
+              h5 Parte superior (cuello) – arriba, parte inferior (cintura) – abajo = de arriba hacia abajo.
+              h5 Parte derecha – posterior, parte izquierda – delantero = de atrás hacia adelante.
     .py-2
     p.text-center El rectángulo siempre se traza con las medidas más protuberantes correspondientes a la talla:
 
@@ -359,8 +360,8 @@
             img.imgsize(src='@/assets/curso/temas/tema2/img25.svg' alt='AvatarTop')
           .tarjeta.bglila
             .p-4
-              h5.text-center Ancho: P/2+6cm
-              h5.text-center Largo: largo de talle o espalda
+              h5.text-center Ancho: P/2+6cm.
+              h5.text-center Largo: largo de talle o espalda.
   
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-2.col-6

@@ -30,14 +30,14 @@
                   | #[b 2. Interpretación]
                 li.pb-0
                   ul
-                    li.text-center 
-                      i
+                    li
+                      i.fas.fa-atom
                       | Desahogos – contorno. Largos y anchos
-                    li.text-center  
-                      i
+                    li 
+                      i.fas.fa-atom
                       | Sistema de ajuste
-                    li.text-center  
-                      i
+                    li  
+                      i.fas.fa-atom
                       | Sistema de cierre
                 li 
                   i
@@ -67,7 +67,7 @@
             img.imgsize(src='@/assets/curso/temas/tema3/img02.svg' alt='AvatarTop')
           .tarjeta.bglila
             .p-3
-              p En general, todas las bases superiores sin importar la línea que maneja dicha pinza, la diferencia en la base femenina es por el volumen de busto, el cual permite que dicha pinza sea más notoria.
+              p En general, en todas las bases superiores sin importar la línea, se maneja dicha pinza, la diferencia en la base femenina es por el volumen de busto, el cual permite que dicha pinza sea más notoria.
      
     p #[b En algunos casos por construcción dicha pinza queda invisible o imperceptible al ojo en el producto final]; sin embargo, en algunos otros casos se identifica o se hace más notorio el manejo de dicha pinza. #[b La pinza correctiva de talle permite ser trasladada o llevada a diferentes puntos del cuerpo], permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños.
     p En el siguiente video, se presenta el proceso para realizar traslados de pinza correctiva detalles:
@@ -96,7 +96,7 @@
           h5 Contorno de busto – contorno de cintura – contorno de cadera
 
     p Sin importar el tipo de prenda, #[b los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico]. Siendo así, para el manejo de pinzas se debe tener en cuenta que:
-    p En el siguiente video, se realiza una presentación de dicho proceso.
+    
     .row.justify-content-center-aling-items-center(data-aos="fade-left")
       .col-md-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -117,8 +117,8 @@
               h4 Prendas superiores ajuste por cadera:
               p.text-center Contorno de busto
               p.text-center (medida base) - (menos)
-              p.text-center Contorno de cintura
-              p.text-center (medida más pequeña ajustar)
+              p.text-center Contorno de cadera
+              p.text-center (medida más protuberante)
         
       .col-md-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -132,8 +132,8 @@
               p.text-center (medida más pequeña ajustar)
 
       .py-4
-      p Todos los volúmenes o manejos de pinza dependen del tipo de silueta, #[b drop o ADN de marca], es decir, el ancho y profundidad de la pinza se plantea a partir de dicho análisis. #[b La variedad de cortes en los patrones hace que realce en particular alguna parte del cuerpo o realce el contraste de materiales, un corte en la cintura, busto, entre otros, sea en dirección horizontal o vertical], mejora la horma de la prenda cuya finalidad es resaltar en mayor medida la estética de las proporciones de la figura femenina.
-
+      p Todos los volúmenes o manejos de pinza dependen del tipo de silueta, #[b #[em drop] o ADN de marca], es decir, el ancho y profundidad de la pinza se plantea a partir de dicho análisis. #[b La variedad de cortes en los patrones hace que realce en particular alguna parte del cuerpo o realce el contraste de materiales, un corte en la cintura, busto, entre otros, sea en dirección horizontal o vertical], mejora la horma de la prenda cuya finalidad es resaltar en mayor medida la estética de las proporciones de la figura femenina.
+      p En el siguiente video, se realiza una presentación de dicho proceso.
       .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video

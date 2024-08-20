@@ -169,13 +169,18 @@
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
             .py-4
-              p #[b Sistema de ajuste:] son todos los ajustes (pinza o corte) que se le dan a la prenda, en este caso para una prenda infantil no se trabajará o enfocará a sistemas de ajuste, los sistemas de ajuste se trabajarán en la línea femenina, para tener una mejor comprensión y aprovechamiento de las pinzas. 
+              p #[b Desahogo por ancho:] Los desahogos corresponden a:
+          .col-md-9
+            ul.lista-ul.mb-4
+              li
+                i.fas.fa-atom
+                | #[b Desahogo por ancho de pecho y ancho de espalda:]  los desahogos suelen ser incrementos que van o corresponden a la misma proporción de la holgura inicial, esto es, los desahogos por anchos corresponden al incremento que se aplica al desahogo por contorno.
           .col-md-6.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 7.
               span Desahogo por ancho de pecho y espalda
             img(src='@/assets/curso/temas/tema1/img11.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, usadas para indicar medidas de patrones de costura. Las líneas y textos marcan puntos específicos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. La figura frontal tiene una sección sombreada en rosa que indica “Deshago por ancho”. Abajo hay un diagrama circular etiquetado “Deshago por Ancho”, que separa las zonas “Delantero” y “Posterior”, y una explicación de que este deshago por ancho es un aumento o holgura que se toma proporcional al deshago por largo.')
-          p.text-center Los escotes también se modifican y pueden entrar dentro de la categorización de un desahogo; sin embargo, manejan una terminología y explicación diferente.
+         
           .py-4
         
         
@@ -596,9 +601,9 @@
     Separador  
     #t_1_7.titulo-segundo.color-primario
       h2 1.7 Trazo de prendas inferiores – faldas
-    p Para el desarrollo del trazo de prendas inferiores - falda, #[b se trabajarán tres imágenes de referencia, sobre estas imágenes se identifican diferentes tipos de pretinas, vuelos y amplitudes.] Asimismo tener en cuenta complementos como bolsillos, tapas y el sistema de cierre adecuado para cumplir su función, sin generar dificultades en el uso por parte del infante.
+    p Para el desarrollo del trazo de prendas inferiores - falda, #[b se trabajarán tres imágenes de referencia, sobre estas imágenes se identifican diferentes tipos de pretinas, vuelos y amplitudes.] Asimismo, tener en cuenta complementos como bolsillos, tapas y el sistema de cierre adecuado para cumplir su función, sin generar dificultades en el uso por parte del infante.
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-4.col-8.col-sm-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 26. 
