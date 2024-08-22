@@ -285,7 +285,6 @@
               span Pantalón tipo jean - silueta #[em slim fit]
           img(src='@/assets/curso/temas/tema2/img21.svg', alt='la imagen presenta el trazo de un pantalón ajustado donde se detallan la pretina, el sistema de cierre, los bolsillos y algunas medidas como cintura, largo del tiro y largo del pantalón.')
     .py-3
-      h4 Silueta #[em Slim Fit]
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
       h3.py-2.w-card-text Silueta #[em Slim Fit]

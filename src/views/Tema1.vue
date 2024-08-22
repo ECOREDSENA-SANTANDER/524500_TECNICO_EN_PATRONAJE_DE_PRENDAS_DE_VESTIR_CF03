@@ -608,17 +608,17 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 26. 
           span Falda sin pretina-falso
-        img(src='@/assets/curso/temas/tema1/001.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
+        img(src='@/assets/curso/temas/tema1/001.png', alt='Fotografía de niña luciendo una falta de cuadros sin pretina.')
       .col-lg-4.col-8.col-sm-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 27. 
           span Pretina recta
-        img(src='@/assets/curso/temas/tema1/002.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una falda con pretina anatómica de color gris;  En la segunda imagen se presenta un maniquí sobre el cual se resalta la pretina en color rosa, además se lee: “las pretinas anatómicas, salen con la forma del cuerpo, es decir, se ajustan a la curvatura de la cintura”')
+        img(src='@/assets/curso/temas/tema1/002.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
       .col-lg-4.col-8.col-sm-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 28.
           span  Pretina anatómica
-        img(src='@/assets/curso/temas/tema1/003.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una niña luciendo una falda rosada con la pretina recta y botones en el centro. En la segunda imagen se presenta un maniquí donde se resalta la pretina en color rosa, además se lee: “las pretinas rectas  salen en forma de tira y quedan sin ajuste u horma sobre el cuerpo”.')
+        img(src='@/assets/curso/temas/tema1/003.png', alt='La figura presenta dos imágenes: la primera es la fotografía de una falda con pretina anatómica de color gris;  En la segunda imagen se presenta un maniquí sobre el cual se resalta la pretina en color rosa, además se lee: “las pretinas anatómicas, salen con la forma del cuerpo, es decir, se ajustan a la curvatura de la cintura”')
     p.py-4 A continuación, se presenta el video Trazo de prendas inferiores, con el cual podrá realizar el patronaje de este tipo de prenda.
     .py-2
     figure.mb-5(data-aos="zoom-in-left")

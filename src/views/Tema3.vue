@@ -258,7 +258,6 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
-        p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre se debe partir de las bases o básicos que se han desarrollado en componentes anteriores, con el fin de apropiar el análisis del manual, #[b todo se irá desarrollando dentro del marco de la metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
         p Para el trazo de chaqueta cuello sastre en la página 40 del manual encontrará un plano de referencia, en el plano #[b identificará elementos como desahogos, traslado de pinza correctiva de talle, sistema de ajuste (corte francés) sistema de cierre], este plano es solo una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una chaqueta tipo sastre o con cuello sastre, debe #[b tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
       
     .bgazul 
@@ -440,11 +439,6 @@
       h2 3.7 Trazo de vestido de noche
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-sm-7
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 55. 
-          span Pantalón de dama
-        img(src='@/assets/curso/temas/tema3/img55.png', alt='La fotografía presenta medio cuerpo, la parte inferior, del cuerpo de una mujer, donde se destaca un pantalón de color gris oscuro mas o menor ceñido al cuerpo y con detalles de prenses y pretina rergativo.')
       .col-lg-9
         p.py-4 Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, #[b cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera]. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -456,7 +450,11 @@
           
           .col-lg-4.col-6.col-sm-5
             img(src='@/assets/curso/temas/tema3/img36.svg', alt='')
-    
+      .col-lg-3.col-sm-7
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 55. 
+          span Pantalón de dama
+        img(src='@/assets/curso/temas/tema3/img55.png', alt='La fotografía presenta medio cuerpo, la parte inferior, del cuerpo de una mujer, donde se destaca un pantalón de color gris oscuro mas o menor ceñido al cuerpo y con detalles de prenses y pretina rergativo.')
       p En el video presentado a continuación, se detalla el proceso para la interpretación: 
       figure.mb-5(data-aos="zoom-in-left")
         .video
