@@ -75,7 +75,7 @@
     .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/encNXGtE15Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/EpSXWyWzcPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
 
@@ -137,7 +137,7 @@
       .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/Tq_3F32nynw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
 
@@ -164,7 +164,7 @@
     .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/euVdaqaTQlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/DamxUrw0CZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
     
     .row.justify-content-center(data-aos="fade-left") 
@@ -248,7 +248,7 @@
     .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/xjSPGOWXJw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
     Separador  
@@ -309,7 +309,7 @@
     .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/B7qyE5ySUII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/s0-KazTGANo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
     Separador  
@@ -340,7 +340,7 @@
     .py-2
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/EAl_FBfkYUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
    
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
@@ -361,7 +361,7 @@
     .py-2
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2a81MoVG6Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
     
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
@@ -389,7 +389,7 @@
      
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/xtyPQh3vtuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ?si=y_O_umNWg0Nba_NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
     
     p En este tipo de prendas es importante tener en cuenta el tipo de pretina sea acorde al diseño, así mismo, su ancho con el fin de mejorar la horma en la figura femenina.
@@ -410,7 +410,7 @@
     p En el siguiente video se explica de manera detallada, el proceso para realizar en trazo de faldas tipo rotonda:
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/NxZQL369p9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/FDObdk243H4?si=Wocv6YOd5RTy9F2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
     Separador  
@@ -431,7 +431,7 @@
     p En el siguiente video, se presenta el proceso para realizar el trazo del vestido de noche:
     figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/PSo48U9qR7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/o1f0M18Yryw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Trazo vestido de noche
 
     Separador  
@@ -458,7 +458,7 @@
       p En el video presentado a continuación, se detalla el proceso para la interpretación: 
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/K2SbwvDv7eA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: interpretación de prendas inferiores 
 
     Separador  
