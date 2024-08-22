@@ -475,7 +475,7 @@
     .py-4 
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/PSo48U9qR7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/XTM85aomtgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Leyenda del video 
 
 
