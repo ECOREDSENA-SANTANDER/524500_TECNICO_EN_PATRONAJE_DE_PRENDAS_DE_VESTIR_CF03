@@ -10,7 +10,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
         p Todas las unidades que se han trabajado se van articulando en el #[b fortalecimiento técnico del manejo de vocabulario, comprensión de patronaje y manejo de elementos como curvas y formas del cuerpo]; sin embargo, cada vez más se irá subiendo el nivel de dificultad frente al desarrollo y complejidad del análisis de las prendas. 
-        p En femenino #[b el manejo de volúmenes es uno de los principales factores diferenciadores], en el desarrollo de prendas son las pinzas y sistemas de ajustes, los cuales #[b se convierten en protagonistas principales de esta unidad], debe tener en cuenta que sin importar la línea que se trabaje la metodología del manual y los pasos siempre serán los mismos, #[b este orden secuencial le permite tener una mayor y mejor apropiación de la metodología].
+        p En femenino #[b el manejo de volúmenes es uno de los principales factores diferenciadores], en el desarrollo de prendas son las pinzas y sistemas de ajustes, los cuales #[b se convierten en protagonistas principales de esta unidad], se debe tener en cuenta que sin importar la línea que se trabaje la metodología del manual y los pasos siempre serán los mismos, #[b este orden secuencial le permite tener una mayor y mejor apropiación de la metodología].
     .py-4
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
@@ -152,13 +152,14 @@
         p Es fundamental tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen cuenta con referencias específicas. Estas referencias están alineadas con los conceptos de diseño y los requisitos necesarios para la producción.
         p Con el fin de referenciar y contextualizar la implementación, recuerde que, aunque en el manual se identifica un plano separado se sugiere trabajar siempre en plano unido, con el fin de validar medidas como largos o proporciones referenciados en el plano.
         p Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
-        p En el video a continuación se presenta dicho proceso: 
       .col-lg-4.col-9
         .titulo-sexto.color-acento-contenido
           h5 Figura 40. 
           span Blusa femenina
         img(src='@/assets/curso/temas/tema3/img08.svg', alt='')
-
+    .row
+      .col-lg-8 
+        p En el video a continuación se presenta dicho proceso: 
        
     
     .py-4
@@ -371,12 +372,12 @@
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-12
         p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas #[b se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando], se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento, se hará o trabajará todo sobre análisis de proporciones.
-        p Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, #[b es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida], las referencias implementadas son solo ejemplos detallados de cómo y qué manera se debe implementar el desarrollo.
+        p Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, #[b es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida], las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
 
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-6
         .cajon.color-primario.p-4.mb-4
-          h5 La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
+          h5 La finalidad del ejercicio es implementar el básico y llevarlo hacia diferentes tipos de diseño, bajo una misma tipología.
     
     .row.justify-content-center(data-aos="fade-left").p-4
       .col-lg-9

@@ -24,7 +24,7 @@
           )
           .bloque-texto-g__texto.p-4.cuadro-blanco
             p Otro punto para tener en cuenta es #[b el manejo de siluetas, en masculino el manual trabaja dos siluetas: una clásica y otra #[em slim fit]], si bien el desarrollo de los planos y moldes cumple con los mismos pasos o el mismo orden secuencial, #[b lo que varía son las fórmulas], específicamente para el desarrollo de los básicos.
-            p Para la implementación y modificación de básicos #[b es importante tener claridad en cada uno de los conceptos de patronaje como medidas, pasos, elementos y vocabulario] técnico que se irá implementando en el desarrollo de los trazos, moldes o planos.
+            p  Para la implementación y modificación de básicos #[b es importante tener claridad en cada uno de los conceptos de patronaje como medidas, pasos, elementos y vocabulario] técnico que se irá implementando en el desarrollo de los trazos, moldes o planos.
     
     p En este punto, para la implementación de los básicos se debe tomar como referencia los pasos del patronaje de acuerdo con la metodología SENA.
 
@@ -116,10 +116,10 @@
         .py-2
         .col-lg-12
           p Lo primero para tener en cuenta es el manejo de los básicos, dependiendo del tipo de silueta, en este caso, #[b se sugiere trabajar el básico de silueta #[em slim fit]], con el fin de manejar la horma de acuerdo con las siluetas anteriormente trabajadas.
-          p Para el trazo de camisa #[b #[em slim fit] en la página 69 del manual encontrará un plano de referencia], en el plano identificará elementos como sistemas de cierre y complementos (almillas); #[b este plano es solo una guía o una referencia de cómo se puede implementar la base #[em slim fit]], no hace referencia a especificaciones o estándares para el trazo de una camisa slim fit, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción.
+          p Para el trazo de camisa #[b #[em slim fit] en la página 69 del manual encontrará un plano de referencia], en el plano identificará elementos como sistemas de cierre y complementos (almillas); #[b este plano es solo una guía o una referencia de cómo se puede implementar la base #[em slim fit]], no hace referencia a especificaciones o estándares para el trazo de una camisa #[em slim fit], debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción.
 
     .py-4 
-    p En el video a continuación se describe la manera en que se realiza el trazo de camisa Slim fit, basándose en el manual de patronaje:
+    p En el video a continuación se describe la manera en que se realiza el trazo de camisa #[em Slim fit], basándose en el manual de patronaje:
     
     figure.mb-5(data-aos="zoom-in-left")
       .video
@@ -132,7 +132,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p Para el desarrollo de las mangas, cuellos y puños se trabajarán las generalidades de cada uno de los trazos o de las camisas clásicas y slim fit, con el fin de referenciar la metodología del manual de patronaje básico SENA, en las páginas 66, 67, 69 y 70 encontrará los planos de referencia.
+        p Para el desarrollo de las mangas, cuellos y puños se trabajarán las generalidades de cada uno de los trazos o de las camisas clásicas y #[em slim fit], con el fin de referenciar la metodología del manual de patronaje básico SENA, en las páginas 66, 67, 69 y 70 encontrará los planos de referencia.
         p Para el desarrollo o trazo de mangas debe tener en cuenta siempre el comportamiento de las cabezas de mangas:
 
 
@@ -164,7 +164,7 @@
               h5 Cabeza de manga sastre o formal = sisa delantera + sisa posterior / 3
   
     p Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica por su comportamiento que quedará con menor estructura y mayor comodidad sobre el cuerpo.
-    p.text-center En el caso de las cabezas de mangas deducidas para las camisas clásica y slim fit se sugiere trabajar con:
+    p.text-center En el caso de las cabezas de mangas deducidas para las camisas clásica y #[em slim fit] se sugiere trabajar con:
     
     .py-2
     .row.justify-content-center(data-aos="fade-left")
@@ -226,7 +226,7 @@
         .col-lg-1.col-4.col-sm-3
           img(src='@/assets/curso/temas/tema2/regla2.svg').py-3
         .col-lg-10
-          p Con respecto a lo anterior, en el #[b patronaje del pantalón clásico masculino partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
+          p Con respecto a lo anterior, en el #[b patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
   
   
   
@@ -265,7 +265,7 @@
             .col-lg-2.col-6.col-sm-4
               img(src='@/assets/curso/temas/tema2/img19.svg', alt='')
             .col-lg-9
-              p Con respecto a lo anterior, en #[b el patronaje del pantalón clásico masculino partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como #[b la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje] para tener especial atención.
+              p Con respecto a lo anterior, en #[b el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como #[b la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje] para tener especial atención.
               
       Separador  
       #t_2_4.titulo-segundo.color-primario
@@ -275,7 +275,7 @@
         .col-lg-4.col-8.col-sm-5
           img(src='@/assets/curso/temas/tema2/3.png', alt='').py-4
         .col-lg-8
-          p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre #[b se debe partir de las bases o básicos que se han desarrollado en componentes anteriores], con el fin de apropiar el análisis del manual, #todo se irá desarrollando dentro del marco de la #[b metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
+          p Para el desarrollo de los planos del manual de patronaje #[b SENA] siempre #[b se debe partir de las bases o básicos que se han desarrollado en componentes anteriores], con el fin de apropiar el análisis del manual, todo se irá desarrollando dentro del marco de la #[b metodología SENA], en la cual se irán encontrando guías o ejemplos con la implementación de cada uno de los pasos del patronaje.
           p Para el trazo de pantalón tipo #[em jean] silueta #[em slim fit] (ajustado) en la página 80 del manual #[b encontrará un plano de referencia, en el plano identificará elementos como ajustes, sistemas de cierre y complementos (pasadores, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de parche, pretina recta, cotilla)] este plano es solo una guía o una referencia de cómo se puede implementar la base inferior del pantalón, #[b no hace referencia a especificaciones o estándares para el trazo de un pantalón ajustado o tipo #[em jean]]; debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
         
       .row.justify-content-center.align-items-center(data-aos="fade-left").py-4

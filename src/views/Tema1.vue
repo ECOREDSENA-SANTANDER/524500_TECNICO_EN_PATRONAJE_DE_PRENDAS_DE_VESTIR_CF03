@@ -45,7 +45,7 @@
       h2 1.1 Cómo hacer un patrón a escala
       
     .row.justify-content-center(data-aos="zoom-in-left")
-      p En términos de patronaje se puede trabajar a menor escala, cuando se habla de escala consiste en tomar un molde de cualquier línea y trazarlo en un tamaño menor o mayor, en este caso para la optimización de recursos se sugiere trabajar en escalas más pequeñas, si bien cuando se inicia a trabajar o se está teniendo una inmersión en patronaje se sugiere trabajar a escala real, en algunos casos por optimización se facilita trabajar en tamaños más pequeños; sin embargo, es importante aclarar que lo ideal o la sugerencia siempre será trabajar a escala real.
+      p En términos de patronaje se puede trabajar a menor escala. Cuando se habla de escala consiste en tomar un molde de cualquier línea y trazarlo en un tamaño menor o mayor, en este caso para la optimización de recursos se sugiere trabajar en escalas más pequeñas, si bien cuando se inicia a trabajar o se está teniendo una inmersión en patronaje se sugiere trabajar a escala real, en algunos casos por optimización se facilita trabajar en tamaños más pequeños; sin embargo, es importante aclarar que lo ideal o la sugerencia siempre será trabajar a escala real.
     
     .cajon.color-acento-contenido.p-4.mb-5
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -455,7 +455,7 @@
         h3.py-2.w-card-text 01. Los cuellos por medida de contorno 
         
       .col-lg-12
-        p.py-2 son cuellos que se caracterizan por tener forma de tira, en la mayoría de los casos abrazan el cuello y #[b se mantienen “levantados”] sobre la estructura. Desde plano suelen tener curvas disímiles al escote y en la mayoría de los casos suelen salir en un plano aparte, esto es, sobre ejes de trazo diferentes al plano de la prenda.
+        p.py-2 Son cuellos que se caracterizan por tener forma de tira, en la mayoría de los casos abrazan el cuello y #[b se mantienen “levantados”] sobre la estructura. Desde plano suelen tener curvas disímiles al escote y en la mayoría de los casos suelen salir en un plano aparte, esto es, sobre ejes de trazo diferentes al plano de la prenda.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 17.
@@ -475,7 +475,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p son cuellos que se caracterizan porque descansan sobre el cuerpo, es decir, #[b no se mantienen “levantados”] sobre la estructura del cuello, sino que salen o quedan con la misma estructura o forma del cuerpo. Desde plano suelen salir sobre el mismo trazo de la prenda, en la mayoría de los casos suelen tener unión o costura en escote.
+        p Son cuellos que se caracterizan porque descansan sobre el cuerpo, es decir, #[b no se mantienen “levantados”] sobre la estructura del cuello, sino que salen o quedan con la misma estructura o forma del cuerpo. Desde plano suelen salir sobre el mismo trazo de la prenda, en la mayoría de los casos suelen tener unión o costura en escote.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 19.
@@ -488,7 +488,7 @@
       h3.py-2.w-card-text 03. Los cuellos por extensión 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p son cuellos que se caracterizan porque combinan el comportamiento de los dos anteriores, esto es, una parte del cuello (delantero – posterior) #[b abraza el cuello y se mantiene “levantado”] sobre la estructura y la otra parte (delantero – posterior) descansa sobre el cuerpo, es decir, no se mantiene “levantado” sobre la estructura del cuello; este tipo de cuellos suelen salir en la parte que descansa sobre el cuerpo sin ningún corte, sino como una extensión de la prenda, y la parte que abraza el cuello con corte de unión en escote. Desde plano suelen salir sobre el mismo trazo de la prenda. 
+        p Son cuellos que se caracterizan porque combinan el comportamiento de los dos anteriores, esto es, una parte del cuello (delantero – posterior) #[b abraza el cuello y se mantiene “levantado”] sobre la estructura y la otra parte (delantero – posterior) descansa sobre el cuerpo, es decir, no se mantiene “levantado” sobre la estructura del cuello; este tipo de cuellos suelen salir en la parte que descansa sobre el cuerpo sin ningún corte, sino como una extensión de la prenda, y la parte que abraza el cuello con corte de unión en escote. Desde plano suelen salir sobre el mismo trazo de la prenda. 
       .col-lg-4.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 20.
@@ -667,7 +667,7 @@
             span.text-small Aletilla y aletillón
           img(src='@/assets/curso/temas/tema1/figura32.png', alt='')
 
-    p En video a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
+    p El video a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UfLQp6n1qL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

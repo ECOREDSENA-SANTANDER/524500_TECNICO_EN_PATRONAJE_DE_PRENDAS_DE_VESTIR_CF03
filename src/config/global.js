@@ -259,9 +259,32 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lizeth Maritza Rodríguez Beltrán ',
+          cargo: 'Instructora Técnica ',
+          centro:
+            'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Natalia Andrea Bueno Pizarro ',
+          cargo: 'Diseñadora y evaluadora Instruccional ',
+          centro:
+            'Distrito Capital – Centro para La Industria de la Comunicación Gráfica ',
+        },
+        {
+          nombre: 'Julia Isabel Roberto ',
+          cargo: 'Diseñadora y evaluadora Instruccional ',
+          centro:
+            'Distrito Capital – Centro para La Industria de la Comunicación Gráfica ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Paez ',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún  ',
+          cargo: 'Evaluador Instruccional ',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
