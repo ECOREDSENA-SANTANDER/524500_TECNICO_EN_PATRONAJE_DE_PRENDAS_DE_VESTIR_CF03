@@ -182,33 +182,35 @@
             img(src='@/assets/curso/temas/tema1/img11.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, usadas para indicar medidas de patrones de costura. Las líneas y textos marcan puntos específicos como “Línea de Prof. de sisa” y “Busto Inferior 1/4”. La figura frontal tiene una sección sombreada en rosa que indica “Deshago por ancho”. Abajo hay un diagrama circular etiquetado “Deshago por Ancho”, que separa las zonas “Delantero” y “Posterior”, y una explicación de que este deshago por ancho es un aumento o holgura que se toma proporcional al deshago por largo.')
          
           .py-4
+    .py-4
+    p Los escotes también se modifican y pueden entrar dentro de la categorización de un desahogo; sin embargo, manejan una terminología y explicación diferente. 
+    .row.justify-content-center(data-aos="fade-left")
+      .col-md-12
+        p #[b Sistema de ajuste:] son todos los ajustes (pinza o corte) que se le dan a la prenda, en este caso para una prenda infantil no se trabajará o enfocará a sistemas de ajuste, los sistemas de ajuste se trabajarán en la línea femenina, para tener una mejor comprensión y aprovechamiento de las pinzas. 
+      .col-md-8.p-4.col-lg-4.col-9
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 8.
+          span Sistema de ajuste
+        img(src='@/assets/curso/temas/tema1/img12.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, con líneas y textos indicando medidas para patrones de costura. En ambas figuras se señalan la “Línea de Prof. de sisa”, y se marcan las áreas de “Delantero Inferior 1/6” en la figura frontal y “Base Posterior Inferior 1/6” en la figura trasera. Un área sombreada en rosa en la figura frontal lleva la inscripción “Sistema de cierre”, sugiriendo la ubicación del cierre en la prenda.')
         
         
-        .row.justify-content-center(data-aos="fade-left")
-          .col-md-10
-            p #[b Sistema de ajuste:] son todos los ajustes (pinza o corte) que se le dan a la prenda, en este caso para una prenda infantil no se trabajará o enfocará a sistemas de ajuste, los sistemas de ajuste se trabajarán en la línea femenina, para tener una mejor comprensión y aprovechamiento de las pinzas. 
-          .col-md-8.p-4.col-lg-4.col-9
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 8.
-              span Sistema de ajuste
-            img(src='@/assets/curso/temas/tema1/img12.svg', alt='La imagen muestra dos figuras humanas estilizadas, una de frente y otra de espalda, con líneas y textos indicando medidas para patrones de costura. En ambas figuras se señalan la “Línea de Prof. de sisa”, y se marcan las áreas de “Delantero Inferior 1/6” en la figura frontal y “Base Posterior Inferior 1/6” en la figura trasera. Un área sombreada en rosa en la figura frontal lleva la inscripción “Sistema de cierre”, sugiriendo la ubicación del cierre en la prenda.')
+    .row.justify-content-center(data-aos="fade-left")
+      .col-md-12
+        p #[b Sistema de cierre:]  este punto es lo que permite que la prenda sea funcional, es decir, es lo que hace que la prenda abra o cierre según la tridimensión del cuerpo, en sistemas de cierre aplican: cremalleras, botones, broches, gafetes, acordonados, encauchados y demás, se debe tener en cuenta que cada uno de los sistemas de cierre tienen especificaciones en el trazo, plano o patrón.
+      .col-md-8.p-4.col-lg-4.col-9
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 9.
+          span Sistema de cierre
+        img(src='@/assets/curso/temas/tema1/img13.svg', alt='La imagen muestra dos figuras humanas estilizadas para patrones de costura, una de frente y la otra de espalda, con áreas sombreadas en rosa y líneas de referencia. Ambas figuras tienen marcas para “Línea de Prof. de sisa”, y las áreas sombreadas se etiquetan como “Base Delantera Inferior 1/6” en la figura de frente y “Base Posterior Inferior 1/6” en la de espalda. En la parte superior de la figura frontal se lee “Sistema de cierre”, indicando el lugar para el mecanismo de cierre de la prenda.')           
         
-        
-        .row.justify-content-center(data-aos="fade-left")
-          .col-md-10
-            p #[b Sistema de cierre:]  este punto es lo que permite que la prenda sea funcional, es decir, es lo que hace que la prenda abra o cierre según la tridimensión del cuerpo, en sistemas de cierre aplican: cremalleras, botones, broches, gafetes, acordonados, encauchados y demás, se debe tener en cuenta que cada uno de los sistemas de cierre tienen especificaciones en el trazo, plano o patrón.
-          .col-md-8.p-4.col-lg-4.col-9
-            .titulo-sexto.color-acento-contenido
-              h5 Figura 9.
-              span Sistema de cierre
-            img(src='@/assets/curso/temas/tema1/img13.svg', alt='La imagen muestra dos figuras humanas estilizadas para patrones de costura, una de frente y la otra de espalda, con áreas sombreadas en rosa y líneas de referencia. Ambas figuras tienen marcas para “Línea de Prof. de sisa”, y las áreas sombreadas se etiquetan como “Base Delantera Inferior 1/6” en la figura de frente y “Base Posterior Inferior 1/6” en la de espalda. En la parte superior de la figura frontal se lee “Sistema de cierre”, indicando el lugar para el mecanismo de cierre de la prenda.')   
     .py-4
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
       h3.py-2.w-card-text 3. Complementos:
     
     p Toda interpretación, trazo, plano o prenda se compone de una serie de complementos como bolsillos, cuellos, mangas, cortes, puños y demás, en esta parte se tiene en cuenta el trazo de las piezas que complementan o conforman el diseño de la prenda.
-    
+        
+        
     .row.justify-content-center(data-aos="fade-left")
       .col-md-7.mb-3.mb-md-0.p-4
         .titulo-sexto.color-acento-contenido
@@ -389,7 +391,7 @@
                 .col.mb-3.mb-sm-0
                   p Consulte el video para complementar la información                                 
                 .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="obtenerLink('/https://youtu.be/AfE6Faagc1Y')" target="_blank")
+                  a.boton.color-primario.texto-blanco(:href="obtenerLink('https://youtu.be/AfE6Faagc1Y')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           
@@ -507,17 +509,19 @@
     Separador  
     #t_1_5.titulo-segundo.color-primario
       h2 1.5 Despiece de planos
-    
+    .row
+      .col-lg-12.amarillo-fondo.p-4
+        p En este punto que se han desarrollado los pasos del patronaje mencionados al inicio, para poder obtener un despiece #[b es importante tener en mente que el chaleco con el que se inició a trabajar o a hacer el trazo ya tiene mangas], puños y cuello, es decir, pasó a ser o a tener las características de una camisa.
+        p Para iniciar a hacer un despiece se debe aclarar que #[b todo depende del diseño, dibujo plano o ficha técnica], el ejercicio que se va a desarrollar es simplemente un ejercicio práctico con simulaciones o ejemplos variantes a cada diseño.
+        p Cuando se hace un despiece como su nombre lo indica, consiste en calcar o copiar el molde de cada pieza por aparte, identificando cada uno de los moldes que se cortarán en el material textil o material a utilizar para confeccionar la prenda.
+    .py-2
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-9.p-2
+      .col-lg-6.col-9.p-2
         .titulo-sexto.color-acento-contenido
           h5 Figura 21.
           span  Despiece
         img(src='@/assets/curso/temas/tema1/img28.svg', alt='En la figura se presentan varias piezas separadas (moldes) de un vestido.')
-      .col-lg-7.amarillo-fondo.p-4
-        p En este punto que se han desarrollado los pasos del patronaje mencionados al inicio, para poder obtener un despiece #[b es importante tener en mente que el chaleco con el que se inició a trabajar o a hacer el trazo ya tiene mangas], puños y cuello, es decir, pasó a ser o a tener las características de una camisa.
-        p Para iniciar a hacer un despiece se debe aclarar que #[b todo depende del diseño, dibujo plano o ficha técnica], el ejercicio que se va a desarrollar es simplemente un ejercicio práctico con simulaciones o ejemplos variantes a cada diseño.
-        p Cuando se hace un despiece como su nombre lo indica, consiste en calcar o copiar el molde de cada pieza por aparte, identificando cada uno de los moldes que se cortarán en el material textil o material a utilizar para confeccionar la prenda.
+
     
     p Elementos para tener en cuenta al momento de calcar las piezas para el despiece:
 
