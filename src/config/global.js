@@ -213,7 +213,7 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Manual de patronaje básico e interpretación de diseños',
       referencia:
         'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
       tipo: 'Libro',
