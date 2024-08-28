@@ -95,7 +95,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span Ejemplo de básicos
-        img(src='@/assets/curso/temas/tema1/img05.svg', alt='')
+        img(src='@/assets/curso/temas/tema1/img05.svg', alt='la imagen presenta un molde básico de camiseta para niño.')
     .py-2
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -145,7 +145,7 @@
               ul.lista-ul.mb-4
                 li
                   i.fas.fa-atom
-                  | Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno)
+                  | Desahogo por línea de profundidad de sisa o por sisa, estos desahogos corresponden a la holgura que se debe trabajar por cavidad axilar, es decir, al dar o asignar holgura por contorno, el desahogo o la holgura por sisa debe ser proporcional. (Siempre el punto de referencia para la asignación de desahogos corresponde al desahogo por contorno).
           .col-md-6.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 5.
@@ -323,21 +323,20 @@
             .col-md-10
               figure
                 img(src='@/assets/curso/temas/tema1/fem1.png', alt='Texto que describa la imagen')
-         
+              p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
 
           .row.justify-content-center(titulo="Cuadro de tallas Masculinas, en donde las medidas son en pulgadas.")
             .col-md-10
               figure
                 img(src='@/assets/curso/temas/tema1/fem2.png', alt='Texto que describa la imagen')
-  
+              p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
           
           .row.justify-content-center(titulo="Cuadro de tallas infantil: Medidas en centímetros.")
             .col-md-10
               figure
                 img(src='@/assets/curso/temas/tema1/fem3.png', alt='Texto que describa la imagen')
-          
-      .col-md-5.mb-3.mb-md-0.p-4  
-        p.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
+              p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
+      
     
     p #[b Cabeza de manga por medida deducida:]  las cabezas de manga por medida deducida salen según el tipo de plano y línea que se trabaje, es decir, que cada vez que se esté trazando un plano, sobre ese plano con la medida de recorrido de sisa delantera y sisa posterior se identifica la cabeza de manga, la sumatoria de esas dos medidas son divididas de acuerdo con el tipo de prenda para identificar la cabeza de manga. 
     
@@ -402,9 +401,7 @@
     p Al tomar como punto de partida el trazo de manga base, el cual corresponde al tipo de prenda con el análisis de cabeza de manga, se trabajan modificaciones por largo.
     p Los largos más comunes son:
     
-    .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
-      img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.py-2.w-card-text Manga ¾, manga a la altura del codo, manga corta, manga coqueta y, sin manga o sisa.
+    p #[b Manga ¾, manga a la altura del codo, manga corta, manga coqueta y, sin manga o sisa.]
 
 
     .bgamarillo.py-4
@@ -413,7 +410,7 @@
           .col-lg-3.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
               h5 Figura 16.
-              span  Tipo de manga.
+              span  Tipo de manga
             img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
           .col-md-5.col-lg-6
             p Estos son solo algunos de todos los que existen, es importante mencionar que #[b en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial], es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se #[b trabajará el nombre funcional] o que aplica con las referencias del cuerpo.
