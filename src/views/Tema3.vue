@@ -271,7 +271,7 @@
             img(src='@/assets/curso/temas/tema3/1.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
          
     .py-3
-    p En el siguiente video se presenta el proceso para el trazo de este tipo de chaqueta
+    p En el siguiente video se presenta el proceso para el trazo de este tipo de chaqueta:
     .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
@@ -296,7 +296,7 @@
                 .col.mb-3.mb-sm-0
                   p Revisar el siguiente material, Manual de patronaje básico, paginas 26, 44, 67, 70 y 86                                
                 .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="obtenerLink('https://www.studocu.com/co/document/universidad-sergio-arboleda/confeccion/manual-de-patronaje-basico-sena/87155960')" target="_blank")
+                  a.boton.color-primario.texto-blanco(:href="('https://www.studocu.com/co/document/universidad-sergio-arboleda/confeccion/manual-de-patronaje-basico-sena/87155960')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
     
@@ -367,7 +367,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando, #[b se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento], se implementará una serie de términos técnicos que irán generando diferentes volúmenes o estructuras sobre el cuerpo.
-        p El patronista debe interpretar el vuelo requerido del diseño de la faldas rotondas y a su vez la tela a utilizar, con el fin de que se desarrolle de manera correcta, y no presenten inconvenientes en el proceso de corte. #[b La finalidad del ejercicio es poder experimentar de qué manera se puede implementar el mismo punto de partida] (falda) hacia diferentes tipos de resultados, bajo una misma tipología.
+        p El patronista debe interpretar el vuelo requerido del diseño de las faldas rotondas y a su vez la tela a utilizar, con el fin de que se desarrolle de manera correcta, y no presenten inconvenientes en el proceso de corte. #[b La finalidad del ejercicio es poder experimentar de qué manera se puede implementar el mismo punto de partida] (falda) hacia diferentes tipos de resultados, bajo una misma tipología.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 48. 

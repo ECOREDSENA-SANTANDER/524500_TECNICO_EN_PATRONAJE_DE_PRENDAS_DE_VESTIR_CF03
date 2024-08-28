@@ -390,7 +390,7 @@
                 .col.mb-3.mb-sm-0
                   p Consulte el video para complementar la información                                 
                 .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="obtenerLink('https://youtu.be/AfE6Faagc1Y')" target="_blank")
+                  a.boton.color-primario.texto-blanco(:href="('https://youtu.be/AfE6Faagc1Y')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
           
