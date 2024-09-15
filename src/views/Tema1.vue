@@ -107,7 +107,7 @@
       SlyderA(tipo="a").p-4
         .row.justify-content-center(data-aos="fade-left")
           .col-md-10
-            p #[b Desahogos:]  Los desahogos se trabajan por contornos, largos y anchos. Las medidas anatómicas corresponden a la base o básico, este punto de partida no tiene incrementos u holguras para el desarrollo de prendas, es decir, que dependiendo de la funcionabilidad de la prenda o del diseño se debe incrementar medidas que funcionan como holguras o desahogos. 
+            p #[b Desahogos:]  Los desahogos se trabajan por contornos, largos y anchos. Las medidas anatómicas corresponden a la base o básico, este punto de partida no tiene incrementos u holguras para el desarrollo de prendas, es decir, que dependiendo de la Funcionabilidad de la prenda o del diseño se debe incrementar medidas que funcionan como holguras o desahogos. 
           .col-md-8.p-4.col-lg-4.col-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 2.
@@ -279,7 +279,7 @@
               p.text-center Entre más larga sea la altura de cabeza de manga otorgará menor movimiento sobre el cuerpo = incomodidad, pero mayor estructura, esta descripción corresponde a las prendas que van ajustadas o con la horma del cuerpo.
               p.text-center Entre más corta sea la altura de cabeza de manga otorgará mayor movimiento sobre el cuerpo = comodidad, pero menor estructura, esta descripción corresponde a las prendas que van holgadas o desestructuradas sobre el cuerpo.
     
-    p Básicamente si esta descripción se divide o se categoriza en prendas de vestir se estaría diciendo que:
+    p Básicamente, si esta descripción se divide o se categoriza en prendas de vestir, se estaría diciendo que:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
@@ -354,7 +354,7 @@
     .py-2
     p #[b Cabeza de manga estandarizada:]  las cabezas de manga estandarizadas suelen ser medidas que, sin explicación alguna, son entregadas para el desarrollo de las prendas.
     .py-4
-    p #[b Trazo de cabeza de manga:]  Para dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de trazos de manga se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco”. Al iniciar el trazo de cabeza de manga lo primero que se debe tener en cuenta son las medidas que se van a trabajar:
+    p #[b Trazo de cabeza de manga:]  Para dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de trazos de manga, se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco”. Al iniciar el trazo de cabeza de manga lo primero que se debe tener en cuenta son las medidas que se van a trabajar:
     
     
     .row.justify-content-center(data-aos="fade-left")
@@ -510,7 +510,7 @@
       .col-lg-12.amarillo-fondo.p-4
         p En este punto que se han desarrollado los pasos del patronaje mencionados al inicio, para poder obtener un despiece #[b es importante tener en mente que el chaleco con el que se inició a trabajar o a hacer el trazo ya tiene mangas], puños y cuello, es decir, pasó a ser o a tener las características de una camisa.
         p Para iniciar a hacer un despiece se debe aclarar que #[b todo depende del diseño, dibujo plano o ficha técnica], el ejercicio que se va a desarrollar es simplemente un ejercicio práctico con simulaciones o ejemplos variantes a cada diseño.
-        p Cuando se hace un despiece como su nombre lo indica, consiste en calcar o copiar el molde de cada pieza por aparte, identificando cada uno de los moldes que se cortarán en el material textil o material a utilizar para confeccionar la prenda.
+        p Cuando se hace un despiece, como su nombre lo indica, consiste en calcar o copiar el molde de cada pieza por aparte, identificando cada uno de los moldes que se cortarán en el material textil o material a utilizar para confeccionar la prenda.
     .py-2
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-9.p-2
@@ -536,11 +536,11 @@
               li 
                 i.fas.fa-atom
                 span.txtlila #[b Margen de costura:]
-                | depende del tipo de costura y la maquinaria a trabajar, por especificación de calidad se asigna 1cm de margen de costura en la industria para la unión de costuras en máquina plana; pero se debe tener en cuenta si la operación es realizada, por ejemplo, en fileteadora con puntada de seguridad, conforme a lo anterior se debe, si es el caso, disminuir el margen de costura. Además, es muy importante el margen en los ruedos o dobladillos de las prendas.
+                | depende del tipo de costura y la maquinaria a trabajar, por especificación de calidad se asigna 1 cm de margen de costura en la industria para la unión de costuras en máquina plana; pero se debe tener en cuenta si la operación es realizada, por ejemplo, en fileteadora con puntada de seguridad, conforme a lo anterior se debe, si es el caso, disminuir el margen de costura. Además, es muy importante el margen en los ruedos o dobladillos de las prendas.
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12 
-        p Es importante tener en cuenta que el margen de costura #[b depende del 100% de la operación o el tipo de máquina], es decir, si en este caso se va a trabajar una costura francesa, el consumo o el margen de costura debe ser superior a 1cm, si se va a unir con cerradora de codo, #[b recubridora, fileteadora] y demás requiere especificaciones diferentes en el margen de costura.
+        p Es importante tener en cuenta que el margen de costura #[b depende del 100 % de la operación o el tipo de máquina], es decir, si en este caso se va a trabajar una costura francesa, el consumo o el margen de costura debe ser superior a 1 cm, si se va a unir con cerradora de codo, #[b recubridora, fileteadora] y demás requiere especificaciones diferentes en el margen de costura.
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
@@ -569,7 +569,7 @@
           span  márgenes de costura
         img(src='@/assets/curso/temas/tema1/img34.svg', alt='La imagen muestra un patrón de corte para confección de ropa, específicamente una pieza de un vestido. Es un dibujo en color amarillo con una forma curva que podría corresponder a una parte del corpiño o posiblemente a un panel lateral. El texto indica que es para un “Vestido Talla 6”, y se refiere a un “Falso Delantero”, seguido por las instrucciones “x1v En tela Base” y “x1v Entretela”. También aparece “10/10”, que puede referirse a una medida específica o a una instrucción de costura. Estas anotaciones sugieren detalles sobre la cantidad de piezas a cortar y los materiales a utilizar. ')
     
-    p En el siguiente video se presenta de manera detallada, la manera de realizar el despiece de planos:
+    p En el siguiente video se presenta, de manera detallada, la manera de realizar el despiece de planos:
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YeoqLHtgNfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -668,7 +668,7 @@
             span.text-small Aletilla y aletillón
           img(src='@/assets/curso/temas/tema1/figura32.png', alt='')
 
-    p El video a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
+    p El video, a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UfLQp6n1qL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

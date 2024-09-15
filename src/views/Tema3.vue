@@ -185,7 +185,7 @@
         p Cuando se habla de cuellos, #[b lo primero que se debe tener en cuenta es la base y forma de cada escote], es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
         p Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen por:
 
-    .row.justify-content-center.mb-5
+    .row.mb-5
       .col-lg-3
         .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
           img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -195,7 +195,7 @@
       SlyderA(tipo="a")
         .row.justify-content-center(data-aos="fade-left").p-4
           .col-md-10
-            p.text-center Los anchos son las medidas que se dan por hombro, desde el punto de cuello hombro, hacia el punto de acromio o por el recorrido de hombro.
+            p.text-center Los anchos son las medidas que se dan por hombro, desde el punto de cuello hombro, hacia el punto de acromion o por el recorrido de hombro.
           .col-md-6.mb-3.mb-md-0.p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 41. 
@@ -296,7 +296,7 @@
                 .col.mb-3.mb-sm-0
                   p Revisar el siguiente material, Manual de patronaje básico, paginas 26, 44, 67, 70 y 86                                
                 .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="('https://www.studocu.com/co/document/universidad-sergio-arboleda/confeccion/manual-de-patronaje-basico-sena/87155960')" target="_blank")
+                  a.boton.color-primario.texto-blanco(:href="('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=BF72CD06AE46253721040B0A364677AF?sequence=1')" target="_blank")
                     span Ir al sitio
                     i.fas.fa-link
     

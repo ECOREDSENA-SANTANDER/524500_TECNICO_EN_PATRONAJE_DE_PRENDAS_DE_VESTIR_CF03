@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Patronaje Básico',
     descripcionCurso:
-      'El presente componente aborda el desarrollo y la elaboración de moldes desde la implementación de los básicos en las diferentes líneas, el análisis de cada una de las partes que compone una prenda, pasados a planos técnicos con medidas y formas correspondientes a cada estructura.',
+      'El presente componente aborda el desarrollo y la elaboración de moldes, desde la implementación de los básicos en las diferentes líneas, el análisis de cada una de las partes que compone una prenda, pasados a planos técnicos con medidas y formas correspondientes a cada estructura.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },
@@ -99,7 +99,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Trazo de prendas superiores - camisa',
+            titulo: 'Trazo de pantalón clásico masculino',
             hash: 't_2_3',
           },
           {
@@ -160,13 +160,8 @@ export default {
           },
           {
             numero: '3.8',
-            titulo: ' Interpretación de prendas inferiores',
+            titulo: 'Interpretación de overoles',
             hash: 't_3_8',
-          },
-          {
-            numero: '3.9',
-            titulo: '  Interpretación de overoles',
-            hash: 't_3_9',
           },
         ],
       },
@@ -215,7 +210,7 @@ export default {
     {
       tema: 'Manual de patronaje básico e interpretación de diseños',
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
@@ -245,12 +240,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -260,30 +255,30 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Maritza Rodríguez Beltrán ',
-          cargo: 'Instructora Técnica ',
+          cargo: 'Instructora técnica ',
           centro:
             'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital ',
         },
         {
           nombre: 'Natalia Andrea Bueno Pizarro ',
-          cargo: 'Diseñadora y evaluadora Instruccional ',
+          cargo: 'Diseñadora y evaluadora instruccional ',
           centro:
             'Distrito Capital – Centro para La Industria de la Comunicación Gráfica ',
         },
         {
           nombre: 'Julia Isabel Roberto ',
-          cargo: 'Diseñadora y evaluadora Instruccional ',
+          cargo: 'Diseñadora y evaluadora instruccional ',
           centro:
             'Distrito Capital – Centro para La Industria de la Comunicación Gráfica ',
         },
         {
           nombre: 'Sandra Paola Morales Paez ',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluador instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Carolina Jiménez Suescún  ',
-          cargo: 'Evaluador Instruccional ',
+          cargo: 'Evaluador instruccional ',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -293,22 +288,22 @@ export default {
       autores: [
         {
           nombre: 'Julián Fernando Vanegas Vera',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Leonardo Castellanos Rodríguez',
-          cargo: 'Desarrollador <i>Fullstack</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y producción audiovisual',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Actividad Didáctica',
+          cargo: 'Actividad didáctica',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -318,12 +313,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de decursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

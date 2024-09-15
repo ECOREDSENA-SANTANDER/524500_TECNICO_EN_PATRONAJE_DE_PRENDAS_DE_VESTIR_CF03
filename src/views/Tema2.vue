@@ -67,7 +67,7 @@
           
             .col-lg-6.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
-      p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
+      p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico, SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
 
       .row.justify-content-center
         .col-lg-10
@@ -111,7 +111,7 @@
           span Camisa #[em slim fit]
         img(src='@/assets/curso/temas/tema2/img06.svg', alt='')
       .col-lg-8 
-        .col-lg-2.col-4
+        .col-lg-2.col-4.col-sm-3
           img.px-4(src='@/assets/curso/temas/tema2/img05.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ') 
         .py-2
         .col-lg-12
@@ -210,7 +210,7 @@
       .py-3
       .row.justify-content-center(data-aos="fade-left")
         .col-lg-12
-          p Es importante plantear en esta prenda algunos detalles importantes, lo cual influye en el patronaje. #[b La camisa es concebida de uso exclusivo de los caballeros, ha ido evolucionando no solo en la silueta], además presenta modificaciones en los cuellos, los cuales han ido tomando nombres conforme al sitio de su procedencia, generando varios tipos, se habla del #[b cuello inglés, francés entre otros, incluso otros diseños como cuello nerú], alto, planteados para diversificar el estilo y por tanto, se desarrolla el patronaje. Asimismo, se presentan diferencias en varias partes como en las mangas y complementos como bajantes (pecheras o botoneras), almillas, puño y portañuelas. #[b El patronista debe considerar este tipo de alternativas para trazar sus patrones.]
+          p Es importante plantear en esta prenda algunos detalles importantes, lo cual influye en el patronaje. #[b La camisa es concebida de uso exclusivo de los caballeros, ha ido evolucionando no solo en la silueta], además presenta modificaciones en los cuellos, los cuales han ido tomando nombres conforme al sitio de su procedencia, generando varios tipos, se habla del #[b cuello inglés, francés entre otros, incluso otros diseños como cuello nerú], alto, planteados para diversificar el estilo y, por tanto, se desarrolla el patronaje. Asimismo, se presentan diferencias en varias partes como en las mangas y complementos como bajantes (pecheras o botoneras), almillas, puño y portañuelas. #[b El patronista debe considerar este tipo de alternativas para trazar sus patrones.]
           p La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
         .col-lg-12
           img(src='@/assets/curso/temas/tema2/4.png')
@@ -226,7 +226,7 @@
         .col-lg-1.col-4.col-sm-3
           img(src='@/assets/curso/temas/tema2/regla2.svg').py-3
         .col-lg-10
-          p Con respecto a lo anterior, en el #[b patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
+          p Con respecto a lo anterior, en el #[b patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la Funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
   
   
   
@@ -265,7 +265,7 @@
             .col-lg-2.col-6.col-sm-4
               img(src='@/assets/curso/temas/tema2/img19.svg', alt='')
             .col-lg-9
-              p Con respecto a lo anterior, en #[b el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la funcionabilidad requerida, especificaciones como #[b la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje] para tener especial atención.
+              p Con respecto a lo anterior, en #[b el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado], debido a que deben responder a la Funcionabilidad requerida, especificaciones como #[b la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje] para tener especial atención.
               
       Separador  
       #t_2_4.titulo-segundo.color-primario
@@ -324,10 +324,10 @@
                     | #[b Talla a trabajar: 34]
                   li 
                     i.fas.fa-atom
-                    | #[b Contorno de pecho: 86.5cm]
+                    | #[b Contorno de pecho: 86.5 cm]
                   li 
                     i.fas.fa-atom
-                    | #[b Largo de talle o espalda: 44.4cm]
+                    | #[b Largo de talle o espalda: 44.4 cm]
                   li 
                     i.fas.fa-atom 
                     | #[b Tipo de papel sugerido: cartón cartulina o cartulina ]
@@ -359,7 +359,7 @@
             img.imgsize(src='@/assets/curso/temas/tema2/img25.svg' alt='AvatarTop')
           .tarjeta.bglila
             .p-4
-              h5.text-center Ancho: P/2+6cm.
+              h5.text-center Ancho: P/2+6 cm.
               h5.text-center Largo: largo de talle o espalda.
   
       .row.justify-content-center.align-items-center(data-aos="fade-left")
