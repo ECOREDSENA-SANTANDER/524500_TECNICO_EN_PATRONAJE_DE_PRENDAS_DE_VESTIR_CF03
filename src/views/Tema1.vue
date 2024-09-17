@@ -58,7 +58,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/TYjDS0QAiYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Cómo hacer un patrón a escala 
+
 
     
     Separador  
@@ -245,7 +246,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/b5K4lQqNWGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Modificaciones de manga
     
     Separador  
     #t_1_3.titulo-segundo.color-primario
@@ -378,21 +379,12 @@
           h5 Figura 15.
           span Trazo de manga
         img(src='@/assets/curso/temas/tema1/img20.svg', alt='La imagen muestra un diagrama de medidas para mangas de prendas. Hay una regla vertical en el centro que indica el “largo de manga”. Diferentes líneas de colores convergen hacia la regla desde la izquierda y la derecha, marcando distintas longitudes para el largo de manga con medidas específicas como “5 cm” y “3 cm” sobre las líneas. Dos letras “D” y “P” están colocadas a los lados de la regla, posiblemente representando diferentes tipos de mangas o medidas estándar. En la parte inferior, hay una indicación de “1/2 Cont. puño” y “1/2 Cont. sisa”, refiriéndose a la mitad del contorno del puño y la sisa respectivamente. Esto sugiere que el diagrama es una guía para trazar el patrón de una manga, indicando cómo varía el largo dependiendo de la medida del puño y la sisa. ')  
-    .py-3
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        .tarjeta.color-acento-botones.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img.icosize(src="@/assets/curso/temas/tema1/video.svg")
-            .col
-              .row.justify-content-center.align-items-center
-                .col.mb-3.mb-sm-0
-                  p Consulte el video para complementar la información                                 
-                .col-sm-auto
-                  a.boton.color-primario.texto-blanco(:href="('https://youtu.be/AfE6Faagc1Y')" target="_blank")
-                    span Ir al sitio
-                    i.fas.fa-video
+    .py-2
+    figure.mb-5(data-aos="zoom-in-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/AfE6Faagc1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: trazo de cabezas mangas
+
           
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -432,7 +424,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/wFw8vVOVPS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Modificaciones de manga 
+
     
     Separador  
     #t_1_4.titulo-segundo.color-primario
@@ -499,8 +492,8 @@
     .py-1
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/cfkxQlf6Vfw?si=MgBRQNanjRIvltou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cfkxQlf6Vfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video:  Trazo de cuellos – Generalidades y comportamientos 
     
     
     Separador  
@@ -573,7 +566,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YeoqLHtgNfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+      figcaption Video: Despiece de planos
     .py-2
     p Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, #[b cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, de elementos o incluso del tipo de lápiz que se trabaje], lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas referenciadas.
     
@@ -597,7 +590,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UXaG_W0Gaio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+      figcaption Video: Trazo de prendas superiores
+ 
 
     Separador  
     #t_1_7.titulo-segundo.color-primario
@@ -625,8 +619,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/j2KkNYuFYYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
-    
+      figcaption Video: Trazo de prendas inferiores – faldas 
+
     Separador  
     #t_1_8.titulo-segundo.color-primario
       h2 1.8 Trazo de prendas inferiores – pantalón
@@ -671,8 +665,8 @@
     p El video, a continuación, presenta una explicación detallada del trazo para el pantalón, teniendo en cuenta los detalles relacionados:
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/UfLQp6n1qL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UfLQp6n1qL8 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Trazo de prendas inferiores - pantalón
     
     Separador  
     #t_1_9.titulo-segundo.color-primario
@@ -700,7 +694,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/6j7POrBEhNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+      figcaption Video: Trazo de prendas - overol
     
     Separador  
     #t_1_10.titulo-segundo.color-primario
@@ -726,9 +720,8 @@
     .py-4
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/eH7LRTKK040?si=m108apWX4Jzx1SZu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
-
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eH7LRTKK040" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Trazo de prendas bata o vestido
 
 
 

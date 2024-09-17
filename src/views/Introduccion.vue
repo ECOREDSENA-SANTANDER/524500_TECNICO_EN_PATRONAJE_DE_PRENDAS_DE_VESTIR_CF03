@@ -13,7 +13,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/gSoxcc4J2To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Patronaje básico 
     .titulo-principal.color-acento-contenido
       h1 Patronaje básico 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")

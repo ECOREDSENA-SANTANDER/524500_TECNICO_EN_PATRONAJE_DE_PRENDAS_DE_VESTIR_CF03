@@ -93,7 +93,8 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UwIdbbg5-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+      figcaption Video: Trazo de camisa clásica
+     
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -123,8 +124,8 @@
     
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/VMJYcQqIKBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/tL1lGlD5SIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Camisa #[em slim fit]
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -194,8 +195,8 @@
       .py-4
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/JuuGDR01fhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/VMJYcQqIKBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Trazo de manga, puño y cuello – camisa clásica y slim fit
 
       Separador  
       #t_2_2.titulo-segundo.color-primario
@@ -219,8 +220,8 @@
     
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/CxwJTRQh-aY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/JuuGDR01fhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video:  Trazo de prendas superiores - camisa
       .py-4
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-1.col-4.col-sm-3

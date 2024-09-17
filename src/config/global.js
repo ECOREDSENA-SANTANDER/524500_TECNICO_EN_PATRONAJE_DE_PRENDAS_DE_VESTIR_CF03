@@ -160,8 +160,13 @@ export default {
           },
           {
             numero: '3.8',
-            titulo: 'Interpretación de overoles',
+            titulo: 'Interpretación de prendas inferiores ',
             hash: 't_3_8',
+          },
+          {
+            numero: '3.9',
+            titulo: 'Interpretación de overoles',
+            hash: 't_3_9',
           },
         ],
       },

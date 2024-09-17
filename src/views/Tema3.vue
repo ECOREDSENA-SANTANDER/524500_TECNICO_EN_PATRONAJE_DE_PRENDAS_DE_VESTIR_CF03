@@ -76,7 +76,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/EpSXWyWzcPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Traslados de pinza correctiva de talles
 
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
@@ -138,7 +138,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Análisis y trazo de sistema de ajuste (pinzas y cortes)
 
 
     Separador  
@@ -166,7 +166,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/DamxUrw0CZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Trazo blusa femenina
     
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-8
@@ -250,7 +250,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Trazo de escotes y tipos de cuellos
 
     Separador  
     #t_3_4.titulo-segundo.color-primario
@@ -276,7 +276,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/s0-KazTGANo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Trazo chaqueta tipo sastre
 
     Separador  
     #t_3_5.titulo-segundo.color-primario
@@ -307,7 +307,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Trazo de mangas y cabezas de manga
    
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -328,11 +328,11 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Interpretación de mangas
     
-    .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
-      img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.text-center.py-2.w-card-text Trazo de falda y modificación de básicos de falda
+    Separador  
+    #t_3_6.titulo-segundo.color-primario
+      h2 3.6 Trazo de falda y modificación de básicos de falda
     
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-12
@@ -355,8 +355,8 @@
      
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ?si=y_O_umNWg0Nba_NU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Trazo de falda y modificación de básicos de falda
     
     p En este tipo de prendas es importante tener en cuenta el tipo de pretina sea acorde al diseño, así mismo, su ancho con el fin de mejorar la horma en la figura femenina.
 
@@ -376,12 +376,12 @@
     p En el siguiente video se explica de manera detallada, el proceso para realizar en trazo de faldas tipo rotonda:
       figure.mb-5(data-aos="zoom-in-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/FDObdk243H4?si=Wocv6YOd5RTy9F2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/FDObdk243H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Trazo de faldas rotondas
 
     Separador  
-    #t_3_6.titulo-segundo.color-primario
-      h2 3.6 Trazo de vestido de noche
+    #t_3_7.titulo-segundo.color-primario
+      h2 3.7 Trazo de vestido de noche
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El vestido, prenda fundamental para el uso en ocasiones tanto casuales como formales, en este caso, #[b se hace hincapié en los vestidos de noche], los cuales se reconocen como requisito en normas de etiqueta de vestir, en los eventos de la mencionada jornada. #[b Los vestidos resaltan en mayor medida las curvas de las féminas siempre y cuando guarde coherencia con la elegancia de la prenda, que es su rasgo primordial]. Los sistemas de ajuste como cortes y pinzas, amplitudes, además de sistemas de cierre deben coordinar con el diseño presentado y sus proporciones. #[b Los largos de los vestidos de noche merecen atención] en el desarrollo del patronaje sobre todo en lo relacionado con las especificaciones en el corte.
@@ -401,8 +401,8 @@
         figcaption Video: Trazo vestido de noche
 
     Separador  
-    #t_3_7.titulo-segundo.color-primario
-      h2 3.7 Trazo de vestido de noche
+    #t_3_8.titulo-segundo.color-primario
+      h2 3.8 Interpretación de prendas inferiores 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -428,8 +428,8 @@
         figcaption Video: interpretación de prendas inferiores 
 
     Separador  
-    #t_3_8.titulo-segundo.color-primario
-      h2 3.8 Interpretación de overoles
+    #t_3_9.titulo-segundo.color-primario
+      h2 3.9 Interpretación de overoles
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -442,7 +442,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/XTM85aomtgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Interpretación de overoles
 
 
 
