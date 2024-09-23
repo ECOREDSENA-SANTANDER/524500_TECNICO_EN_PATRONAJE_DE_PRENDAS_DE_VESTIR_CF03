@@ -246,7 +246,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/b5K4lQqNWGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Modificaciones de manga
+      figcaption Video: Implementación de básico superior
     
     Separador  
     #t_1_3.titulo-segundo.color-primario
@@ -383,7 +383,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/AfE6Faagc1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: trazo de cabezas mangas
+      figcaption Video: Cabezas de manga - Trazo básico de manga
 
           
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
