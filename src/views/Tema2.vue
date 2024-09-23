@@ -257,7 +257,7 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/M-vqfL1whC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video 
+        figcaption Video: Trazo de pantalón clasico masculino
     
     
       .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -295,7 +295,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/BsbFLlxOeGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Trazo de pantalón tipo jean #[em slim fit]
       
       Separador  
       #t_2_5.titulo-segundo.color-primario
@@ -373,7 +373,7 @@
     figure.mb-5(data-aos="zoom-in-left")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ZRCjy8C5A2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Base chaqueta sastre masculina
   
   
 
