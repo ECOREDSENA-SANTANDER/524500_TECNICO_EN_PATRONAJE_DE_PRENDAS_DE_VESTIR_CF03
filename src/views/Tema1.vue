@@ -405,7 +405,7 @@
               span  Tipo de manga
             img(src='@/assets/curso/temas/tema1/img21.svg', alt='En la figura se presenta una figura humana que lleva puesta una camisa manga larga, en la cual se destacan los siguientes tipos de manga: manga tres cuartos, manga altura codo, manga corta, manga coqueta, sin manga') 
           .col-md-5.col-lg-6
-            p Estos son solo algunos de todos los que existen, es importante mencionar que #[b en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial], es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se #[b trabajará el nombre funcional] o que aplica con las referencias del cuerpo.
+            p Estos son solo algunos de todos los que existen, es importante mencionar que en este caso únicamente se trabajará desde la parte estructural o como queda en el cuerpo y no desde el nombre comercial, es decir, a nivel nacional los nombres varían de acuerdo con el contexto, motivo por el cual únicamente se trabajará el nombre funcional o que aplica con las referencias del cuerpo.
         
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-3.col-8.col-sm-6
@@ -417,7 +417,7 @@
       .col-lg-1.col-6.col-sm-3
         img(src='@/assets/curso/temas/tema1/img23.svg', alt='').py-4
       .col-lg-10
-        p Al dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de modificaciones en manga se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano #[b “chaleco”] y las cabezas de manga, es decir, que #[b siempre en este punto las mangas y modificaciones hacen parte de los complementos] en los pasos del patronaje.
+        p Al dar continuidad al chaleco anteriormente trazado y con el fin de hacer el análisis de los diferentes tipos de modificaciones en manga se debe tomar como referencia las medidas y el desarrollo de la primera parte del plano “chaleco” y las cabezas de manga, es decir, que siempre en este punto las mangas y modificaciones hacen parte de los complementos en los pasos del patronaje.
     p En el siguiente video, se explica detalladamente las modificaciones de la manga: 
     
     .py-2
@@ -438,16 +438,16 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img24.png')})`}"
             )
           .bloque-texto-g__texto.p-4.d-flex.flex-column
-            p.p-4 Cuando se habla de cuellos, lo primero que se debe #[b tener en cuenta es la base y forma de cada escote,] esto es, si se habla de la parte funcional del cuello; el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
+            p.p-4 Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, esto es, si se habla de la parte funcional del cuello; el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
         p.py-2 
-      p Al trabajar bajo el #[b contexto funcional] y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos:
+      p Al trabajar bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos:
       
       .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
         img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
         h3.py-2.w-card-text 01. Los cuellos por medida de contorno 
         
       .col-lg-12
-        p.py-2 Son cuellos que se caracterizan por tener forma de tira, en la mayoría de los casos abrazan el cuello y #[b se mantienen “levantados”] sobre la estructura. Desde plano suelen tener curvas disímiles al escote y en la mayoría de los casos suelen salir en un plano aparte, esto es, sobre ejes de trazo diferentes al plano de la prenda.
+        p.py-2 Son cuellos que se caracterizan por tener forma de tira, en la mayoría de los casos abrazan el cuello y se mantienen “levantados” sobre la estructura. Desde plano suelen tener curvas disímiles al escote y en la mayoría de los casos suelen salir en un plano aparte, esto es, sobre ejes de trazo diferentes al plano de la prenda.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 17.
@@ -467,7 +467,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p Son cuellos que se caracterizan porque descansan sobre el cuerpo, es decir, #[b no se mantienen “levantados”] sobre la estructura del cuello, sino que salen o quedan con la misma estructura o forma del cuerpo. Desde plano suelen salir sobre el mismo trazo de la prenda, en la mayoría de los casos suelen tener unión o costura en escote.
+        p Son cuellos que se caracterizan porque descansan sobre el cuerpo, es decir, no se mantienen “levantados” sobre la estructura del cuello, sino que salen o quedan con la misma estructura o forma del cuerpo. Desde plano suelen salir sobre el mismo trazo de la prenda, en la mayoría de los casos suelen tener unión o costura en escote.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 19.
@@ -480,7 +480,7 @@
       h3.py-2.w-card-text 03. Los cuellos por extensión 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p Son cuellos que se caracterizan porque combinan el comportamiento de los dos anteriores, esto es, una parte del cuello (delantero – posterior) #[b abraza el cuello y se mantiene “levantado”] sobre la estructura y la otra parte (delantero – posterior) descansa sobre el cuerpo, es decir, no se mantiene “levantado” sobre la estructura del cuello; este tipo de cuellos suelen salir en la parte que descansa sobre el cuerpo sin ningún corte, sino como una extensión de la prenda, y la parte que abraza el cuello con corte de unión en escote. Desde plano suelen salir sobre el mismo trazo de la prenda. 
+        p Son cuellos que se caracterizan porque combinan el comportamiento de los dos anteriores, esto es, una parte del cuello (delantero – posterior) abraza el cuello y se mantiene “levantado” sobre la estructura y la otra parte (delantero – posterior) descansa sobre el cuerpo, es decir, no se mantiene “levantado” sobre la estructura del cuello; este tipo de cuellos suelen salir en la parte que descansa sobre el cuerpo sin ningún corte, sino como una extensión de la prenda, y la parte que abraza el cuello con corte de unión en escote. Desde plano suelen salir sobre el mismo trazo de la prenda. 
       .col-lg-4.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 20.
@@ -501,8 +501,8 @@
       h2 1.5 Despiece de planos
     .row
       .col-lg-12.amarillo-fondo.p-4
-        p En este punto que se han desarrollado los pasos del patronaje mencionados al inicio, para poder obtener un despiece #[b es importante tener en mente que el chaleco con el que se inició a trabajar o a hacer el trazo ya tiene mangas], puños y cuello, es decir, pasó a ser o a tener las características de una camisa.
-        p Para iniciar a hacer un despiece se debe aclarar que #[b todo depende del diseño, dibujo plano o ficha técnica], el ejercicio que se va a desarrollar es simplemente un ejercicio práctico con simulaciones o ejemplos variantes a cada diseño.
+        p En este punto que se han desarrollado los pasos del patronaje mencionados al inicio, para poder obtener un despiece es importante tener en mente que el chaleco con el que se inició a trabajar o a hacer el trazo ya tiene mangas, puños y cuello, es decir, pasó a ser o a tener las características de una camisa.
+        p Para iniciar a hacer un despiece se debe aclarar que todo depende del diseño, dibujo plano o ficha técnica, el ejercicio que se va a desarrollar es simplemente un ejercicio práctico con simulaciones o ejemplos variantes a cada diseño.
         p Cuando se hace un despiece, como su nombre lo indica, consiste en calcar o copiar el molde de cada pieza por aparte, identificando cada uno de los moldes que se cortarán en el material textil o material a utilizar para confeccionar la prenda.
     .py-2
     .row.justify-content-center.align-items-center.mb-5
@@ -533,7 +533,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12 
-        p Es importante tener en cuenta que el margen de costura #[b depende del 100 % de la operación o el tipo de máquina], es decir, si en este caso se va a trabajar una costura francesa, el consumo o el margen de costura debe ser superior a 1 cm, si se va a unir con cerradora de codo, #[b recubridora, fileteadora] y demás requiere especificaciones diferentes en el margen de costura.
+        p Es importante tener en cuenta que el margen de costura depende del 100 % de la operación o el tipo de máquina, es decir, si en este caso se va a trabajar una costura francesa, el consumo o el margen de costura debe ser superior a 1 cm, si se va a unir con cerradora de codo, recubridora, fileteadora y demás requiere especificaciones diferentes en el margen de costura.
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
@@ -568,14 +568,14 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YeoqLHtgNfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Despiece de planos
     .py-2
-    p Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, #[b cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, de elementos o incluso del tipo de lápiz que se trabaje], lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas referenciadas.
+    p Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, de elementos o incluso del tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas referenciadas.
     
     Separador  
     #t_1_6.titulo-segundo.color-primario
       h2 1.6 Trazo de prendas superiores
 
     p Para apropiar todos los conceptos y pasos trabajados en el trazo de patrones se debe ir analizando prendas desde imagen, dibujo plano, ficha técnica o muestra física, con el fin de tener referencias visuales de lo que se va trabajando.
-    p #[b En las prendas de la línea infantil existe gran variedad en los diseños, algunos conforme a la evolución de los años se mantienen] y son especiales de un género como es el caso del vestido, prenda para niñas; pero conforme a los cambios sociales se presentan prendas unisex, por lo cual cambia el uso, y a su vez incide en el desarrollo del patronaje. Para el trazo de prendas superiores infantiles se debe analizar aspectos como el confort a generar y el nivel de protección, contemplando la necesidad de aplicar largos, desahogos, cuellos o escotes y sistemas de cierre acordes para cubrir dichas necesidades.
+    p En las prendas de la línea infantil existe gran variedad en los diseños, algunos conforme a la evolución de los años se mantienen y son especiales de un género como es el caso del vestido, prenda para niñas; pero conforme a los cambios sociales se presentan prendas unisex, por lo cual cambia el uso, y a su vez incide en el desarrollo del patronaje. Para el trazo de prendas superiores infantiles se debe analizar aspectos como el confort a generar y el nivel de protección, contemplando la necesidad de aplicar largos, desahogos, cuellos o escotes y sistemas de cierre acordes para cubrir dichas necesidades.
     p Para el desarrollo del trazo de prendas superiores se trabajarán tres imágenes de referencia, en las cuales podrá identificar dos prendas para niña y una prenda para niño, la finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico, llevándolo hacia cualquier tipo de prenda.
     .py-4
     .row.justify-content-center.align-items-center.mb-5
@@ -596,7 +596,7 @@
     Separador  
     #t_1_7.titulo-segundo.color-primario
       h2 1.7 Trazo de prendas inferiores – faldas
-    p Para el desarrollo del trazo de prendas inferiores - falda, #[b se trabajarán tres imágenes de referencia, sobre estas imágenes se identifican diferentes tipos de pretinas, vuelos y amplitudes.] Asimismo, tener en cuenta complementos como bolsillos, tapas y el sistema de cierre adecuado para cumplir su función, sin generar dificultades en el uso por parte del infante.
+    p Para el desarrollo del trazo de prendas inferiores - falda, se trabajarán tres imágenes de referencia, sobre estas imágenes se identifican diferentes tipos de pretinas, vuelos y amplitudes. Asimismo, tener en cuenta complementos como bolsillos, tapas y el sistema de cierre adecuado para cumplir su función, sin generar dificultades en el uso por parte del infante.
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.col-sm-8
@@ -625,7 +625,7 @@
     #t_1_8.titulo-segundo.color-primario
       h2 1.8 Trazo de prendas inferiores – pantalón
 
-    p Para apropiar todos los conceptos y pasos trabajados en el trazo de patrones se debe ir analizando prendas desde imagen, dibujo plano, ficha técnica o muestra física, con el fin de tener referencias visuales de lo que se va trabajando. #[b Para el desarrollo del trazo de prendas inferiores - pantalón se trabajarán dos imágenes de referencia, una bajo los requerimientos de un niño y otra bajo los requerimientos de una niña], partiendo desde el mismo básico.
+    p Para apropiar todos los conceptos y pasos trabajados en el trazo de patrones se debe ir analizando prendas desde imagen, dibujo plano, ficha técnica o muestra física, con el fin de tener referencias visuales de lo que se va trabajando. Para el desarrollo del trazo de prendas inferiores - pantalón se trabajarán dos imágenes de referencia, una bajo los requerimientos de un niño y otra bajo los requerimientos de una niña, partiendo desde el mismo básico.
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
         .titulo-sexto.color-acento-contenido
@@ -649,7 +649,7 @@
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
       h3.py-2.w-card-text Sistema de cierre - Aletilla y aletillón
     
-    p El sistema de ajuste en los pantalones infantiles más recomendado es el encauchado, #[b se emplea en pretinas y botas], en el caso de pretinas puede aplicarse en todo el contorno de la cintura, en el posterior o solo en los costados, generando seguridad; pero se debe tener en cuenta que se equilibre con el confort y facilite  gran movilidad del usuario, por tanto, que no genere incomodidad o afecte la piel del infante.
+    p El sistema de ajuste en los pantalones infantiles más recomendado es el encauchado, se emplea en pretinas y botas, en el caso de pretinas puede aplicarse en todo el contorno de la cintura, en el posterior o solo en los costados, generando seguridad; pero se debe tener en cuenta que se equilibre con el confort y facilite  gran movilidad del usuario, por tanto, que no genere incomodidad o afecte la piel del infante.
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3.col-8.p-2
           .titulo-sexto.color-acento-contenido
@@ -687,7 +687,7 @@
         p Especialmente en prendas de este tipo, durante el desarrollo del patronaje acorde al diseño, la selección cuidadosa de los insumos es crucial. Elementos como botones, cierres, hebillas o broches no solo aseguran la prenda, sino que también facilitan su colocación. Esta elección influye significativamente en el planteamiento del patronaje.
         p En el proceso de elaboración de los patrones, se incorporarán elementos como la horcajadura, que proporciona la holgura necesaria al unir los básicos superiores e inferiores. Esta adición de espacio es funcional, es decir, es esencial para que la prenda se ajuste al cuerpo sin inconvenientes y cumpla su función adecuadamente.
         p Es importante tener en cuenta que en el ámbito comercial se emplean diversos términos para describir los detalles y complementos de las prendas. Sin embargo, en este caso nos centraremos en aspectos funcionales sin entrar en especificaciones de nombres comerciales.
-        p Debe tener en cuenta que a nivel comercial #[b existen diversos nombres para cada uno de los detalles y complementos de las prendas;] sin embargo, en este caso se trabajará desde la parte funcional sin especificar los nombres comerciales.
+        p Debe tener en cuenta que a nivel comercial existen diversos nombres para cada uno de los detalles y complementos de las prendas; sin embargo, en este caso se trabajará desde la parte funcional sin especificar los nombres comerciales.
       .col-lg-4.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema1/img48.svg', alt='')
     p En el siguiente video se detalla el trazo para este tipo de prenda:
@@ -713,7 +713,7 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img50.png')})`}"
             )
           .bloque-texto-g__texto.p-4.d-flex.flex-column
-            p El vestido infantil #[b se caracteriza por los vuelos, recogidos y prenses] que contemplan en los diseños, así mismo, la #[b aplicación de complementos como golas y el uso de insumos como encajes, cintas, además de sistemas de ajuste] como encauchados. Por otra parte, han ido adoptando características de prendas femeninas para producir el mismo vestido para ambas líneas, lo cual es importante considerar en el momento del desarrollo del patronaje.
+            p El vestido infantil se caracteriza por los vuelos, recogidos y prenses que contemplan en los diseños, así mismo, la aplicación de complementos como golas y el uso de insumos como encajes, cintas, además de sistemas de ajuste como encauchados. Por otra parte, han ido adoptando características de prendas femeninas para producir el mismo vestido para ambas líneas, lo cual es importante considerar en el momento del desarrollo del patronaje.
      
     p Para el desarrollo del trazo de la prenda se harán todos los pasos del patronaje mencionados al inicio, con el fin de validar y confrontar dudas en los conocimientos adquiridos.
     p En este trazo usted partirá de los básicos, pasando por el análisis del diseño, interpretación y trazo del plano, complementos y despiece. Como se presenta en el siguiente video:

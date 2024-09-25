@@ -9,8 +9,8 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p Todas las unidades que se han trabajado se van articulando en el #[b fortalecimiento técnico del manejo de vocabulario, comprensión de patronaje y manejo de elementos como curvas y formas del cuerpo]; sin embargo, cada vez más se irá subiendo el nivel de dificultad frente al desarrollo y complejidad del análisis de las prendas. 
-        p En femenino #[b el manejo de volúmenes es uno de los principales factores diferenciadores], en el desarrollo de prendas son las pinzas y sistemas de ajustes, los cuales #[b se convierten en protagonistas principales de esta unidad], se debe tener en cuenta que sin importar la línea que se trabaje la metodología del manual y los pasos siempre serán los mismos, #[b este orden secuencial le permite tener una mayor y mejor apropiación de la metodología].
+        p Todas las unidades que se han trabajado se van articulando en el fortalecimiento técnico del manejo de vocabulario, comprensión de patronaje y manejo de elementos como curvas y formas del cuerpo; sin embargo, cada vez más se irá subiendo el nivel de dificultad frente al desarrollo y complejidad del análisis de las prendas. 
+        p En femenino el manejo de volúmenes es uno de los principales factores diferenciadores, en el desarrollo de prendas son las pinzas y sistemas de ajustes, los cuales se convierten en protagonistas principales de esta unidad, se debe tener en cuenta que sin importar la línea que se trabaje la metodología del manual y los pasos siempre serán los mismos, este orden secuencial le permite tener una mayor y mejor apropiación de la metodología.
     .py-4
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
@@ -58,7 +58,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
-        p El básico superior está compuesto #[b por parte delantera y parte posterior, la unión de estos básicos por línea de cintura genera o permite identificar desniveles anatómicos], los cuales van acorde al comportamiento del cuerpo, en #[b la parte del delantero por los desniveles de cintura se identifica una pinza], dicha pinza recibe el nombre de pinza correctiva de talle o pinza de talle, #[b esta pinza es un punto de referencia principal para generar volúmenes] o ajustes sobre el cuerpo.
+        p El básico superior está compuesto por parte delantera y parte posterior, la unión de estos básicos por línea de cintura genera o permite identificar desniveles anatómicos, los cuales van acorde al comportamiento del cuerpo, en la parte del delantero por los desniveles de cintura se identifica una pinza, dicha pinza recibe el nombre de pinza correctiva de talle o pinza de talle, esta pinza es un punto de referencia principal para generar volúmenes o ajustes sobre el cuerpo.
     .py-2
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
@@ -69,7 +69,7 @@
             .p-3
               p En general, en todas las bases superiores sin importar la línea, se maneja dicha pinza, la diferencia en la base femenina es por el volumen de busto, el cual permite que dicha pinza sea más notoria.
      
-    p #[b En algunos casos por construcción dicha pinza queda invisible o imperceptible al ojo en el producto final]; sin embargo, en algunos otros casos se identifica o se hace más notorio el manejo de dicha pinza. #[b La pinza correctiva de talle permite ser trasladada o llevada a diferentes puntos del cuerpo], permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños.
+    p En algunos casos por construcción dicha pinza queda invisible o imperceptible al ojo en el producto final; sin embargo, en algunos otros casos se identifica o se hace más notorio el manejo de dicha pinza. La pinza correctiva de talle permite ser trasladada o llevada a diferentes puntos del cuerpo, permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños.
     p En el siguiente video, se presenta el proceso para realizar traslados de pinza correctiva detalles:
     
     .py-4
@@ -85,8 +85,8 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-left") 
       .col-lg-12
-        p Dentro del desarrollo de moldes y patrones #[b se hace indispensable el manejo de pinzas como sistema de ajuste o como insumo principal] para el manejo de volúmenes; #[b las pinzas en femenino son un punto de partida primordial y específico], el cual es necesario comprender desde la base funcional, estructural y matemática.
-        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, #[b contemplando la circunferencia y el volumen del busto], de igual manera el contorno de cintura y el contorno de cadera, #[b cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[em tops] o los #[em bottoms]] y punto unión o encuentro entre la división del cuerpo.
+        p Dentro del desarrollo de moldes y patrones se hace indispensable el manejo de pinzas como sistema de ajuste o como insumo principal para el manejo de volúmenes; las pinzas en femenino son un punto de partida primordial y específico, el cual es necesario comprender desde la base funcional, estructural y matemática.
+        p Para comprender el funcionamiento de las pinzas se trabajará únicamente la parte superior femenina, contemplando la circunferencia y el volumen del busto, de igual manera el contorno de cintura y el contorno de cadera, cada uno de estos contornos maneja características como volúmenes más protuberantes de los #[em tops] o los #[em bottoms] y punto unión o encuentro entre la división del cuerpo.
         p En el manejo de pinzas únicamente se trabajará con los contornos relevantes o que se toman como punto de partida para la construcción de básicos.
   
 
@@ -95,7 +95,7 @@
         .bglila2.p-4.mb-4
           h5 Contorno de busto – contorno de cintura – contorno de cadera
 
-    p Sin importar el tipo de prenda, #[b los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico]. Siendo así, para el manejo de pinzas se debe tener en cuenta que:
+    p Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico. Siendo así, para el manejo de pinzas se debe tener en cuenta que:
     
     .row.justify-content-center-aling-items-center(data-aos="fade-left")
       .col-md-4.col-lg.mb-5.mb-lg-0
@@ -132,7 +132,7 @@
               p.text-center (medida más pequeña ajustar)
 
       .py-4
-      p Todos los volúmenes o manejos de pinza dependen del tipo de silueta, #[b #[em drop] o ADN de marca], es decir, el ancho y profundidad de la pinza se plantea a partir de dicho análisis. #[b La variedad de cortes en los patrones hace que realce en particular alguna parte del cuerpo o realce el contraste de materiales, un corte en la cintura, busto, entre otros, sea en dirección horizontal o vertical], mejora la horma de la prenda cuya finalidad es resaltar en mayor medida la estética de las proporciones de la figura femenina.
+      p Todos los volúmenes o manejos de pinza dependen del tipo de silueta, #[em drop] o ADN de marca, es decir, el ancho y profundidad de la pinza se plantea a partir de dicho análisis. La variedad de cortes en los patrones hace que realce en particular alguna parte del cuerpo o realce el contraste de materiales, un corte en la cintura, busto, entre otros, sea en dirección horizontal o vertical, mejora la horma de la prenda cuya finalidad es resaltar en mayor medida la estética de las proporciones de la figura femenina.
       p En el siguiente video, se realiza una presentación de dicho proceso.
       .py-4
       figure.mb-5(data-aos="zoom-in-left")
@@ -171,7 +171,7 @@
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-8
         .cajon.color-primario.p-4.mb-4
-           p Las blusas femeninas presentan variedad, igualmente en los sistemas de ajustes se puede #[b eliminar pinzas, crear cortes, además diferencias en cuellos, largos de manga y puños, y complementos como golas], lo cual aumenta la complejidad en el desarrollo del patronaje. Al tener en cuenta lo anterior, el patronista debe analizar el material a trabajar para acertar en la aplicación de desahogos.
+           p Las blusas femeninas presentan variedad, igualmente en los sistemas de ajustes se puede eliminar pinzas, crear cortes, además diferencias en cuellos, largos de manga y puños, y complementos como golas, lo cual aumenta la complejidad en el desarrollo del patronaje. Al tener en cuenta lo anterior, el patronista debe analizar el material a trabajar para acertar en la aplicación de desahogos.
 
     Separador  
     #t_3_3.titulo-segundo.color-primario
@@ -182,7 +182,7 @@
       .col-lg-2
         img.imgsize(src='@/assets/curso/temas/tema3/img11.svg', alt='')
       .col-lg-10
-        p Cuando se habla de cuellos, #[b lo primero que se debe tener en cuenta es la base y forma de cada escote], es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
+        p Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
         p Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen por:
 
     .row.mb-5
@@ -230,7 +230,7 @@
         
   
     p Los nombres de la forma varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo.
-    p Cabe resaltar la importancia del #[b manejo de la profundidad del escote, a su vez coordine con el diseño requerido y no afecte la funcionalidad de la prenda]. En la confección de los escotes se debe controlar la medida de contorno, en la operación de la máquina por el arrastre o la manipulación generada por el operario. En mención de lo anterior, #[b se debe plantear la mejor opción de pieza para cubrir el orillo del material textil en el escote, como son los falsos y el sesgo], además definir el ancho para tener en cuenta en el desarrollo de la operación de confección. Para el uso de falsos se debe analizar y plantear las entretelas acordes con el material textil a confeccionar.
+    p Cabe resaltar la importancia del manejo de la profundidad del escote, a su vez coordine con el diseño requerido y no afecte la funcionalidad de la prenda. En la confección de los escotes se debe controlar la medida de contorno, en la operación de la máquina por el arrastre o la manipulación generada por el operario. En mención de lo anterior, se debe plantear la mejor opción de pieza para cubrir el orillo del material textil en el escote, como son los falsos y el sesgo, además definir el ancho para tener en cuenta en el desarrollo de la operación de confección. Para el uso de falsos se debe analizar y plantear las entretelas acordes con el material textil a confeccionar.
 
     .py-3
     .row.justify-content-center(data-aos="fade-left")
@@ -259,7 +259,7 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
-        p Para el trazo de chaqueta cuello sastre en la página 40 del manual encontrará un plano de referencia, en el plano #[b identificará elementos como desahogos, traslado de pinza correctiva de talle, sistema de ajuste (corte francés) sistema de cierre], este plano es solo una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una chaqueta tipo sastre o con cuello sastre, debe #[b tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas], las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
+        p Para el trazo de chaqueta cuello sastre en la página 40 del manual encontrará un plano de referencia, en el plano identificará elementos como desahogos, traslado de pinza correctiva de talle, sistema de ajuste (corte francés) sistema de cierre, este plano es solo una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una chaqueta tipo sastre o con cuello sastre, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
       
 
   
@@ -300,7 +300,7 @@
                     span Ir al sitio
                     i.fas.fa-link
     
-    P Cada una de estas fórmulas corresponden a medidas deducidas, quiere decir que #[b siempre que se vaya a trazar una cabeza de manga, lo primero que se debe analizar] es el comportamiento y la funcionalidad sobre el cuerpo, lo importante es que el comportamiento de la cabeza de manga sobre el cuerpo sea equivalente al diseño o prenda que se va a trabajar.
+    P Cada una de estas fórmulas corresponden a medidas deducidas, quiere decir que siempre que se vaya a trazar una cabeza de manga, lo primero que se debe analizar es el comportamiento y la funcionalidad sobre el cuerpo, lo importante es que el comportamiento de la cabeza de manga sobre el cuerpo sea equivalente al diseño o prenda que se va a trabajar.
     P A continuación, se presenta un video donde se explica claramente el trazo de manga y cabezas de manga:
     
     .py-2
@@ -336,8 +336,8 @@
     
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-12
-        p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas #[b se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando], se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento, se hará o trabajará todo sobre análisis de proporciones.
-        p Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, #[b es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida], las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
+        p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando, se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento, se hará o trabajará todo sobre análisis de proporciones.
+        p Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida, las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
 
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-6
@@ -366,8 +366,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando, #[b se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento], se implementará una serie de términos técnicos que irán generando diferentes volúmenes o estructuras sobre el cuerpo.
-        p El patronista debe interpretar el vuelo requerido del diseño de las faldas rotondas y a su vez la tela a utilizar, con el fin de que se desarrolle de manera correcta, y no presenten inconvenientes en el proceso de corte. #[b La finalidad del ejercicio es poder experimentar de qué manera se puede implementar el mismo punto de partida] (falda) hacia diferentes tipos de resultados, bajo una misma tipología.
+        p Para profundizar en los conceptos y detalles trabajados en el trazo de faldas se hará el análisis de diferentes diseños desde imagen, con el fin de tener referencias visuales de lo que se va trabajando, se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento, se implementará una serie de términos técnicos que irán generando diferentes volúmenes o estructuras sobre el cuerpo.
+        p El patronista debe interpretar el vuelo requerido del diseño de las faldas rotondas y a su vez la tela a utilizar, con el fin de que se desarrolle de manera correcta, y no presenten inconvenientes en el proceso de corte. La finalidad del ejercicio es poder experimentar de qué manera se puede implementar el mismo punto de partida (falda) hacia diferentes tipos de resultados, bajo una misma tipología.
       .col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 48. 
@@ -384,7 +384,7 @@
       h2 3.7 Trazo de vestido de noche
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p El vestido, prenda fundamental para el uso en ocasiones tanto casuales como formales, en este caso, #[b se hace hincapié en los vestidos de noche], los cuales se reconocen como requisito en normas de etiqueta de vestir, en los eventos de la mencionada jornada. #[b Los vestidos resaltan en mayor medida las curvas de las féminas siempre y cuando guarde coherencia con la elegancia de la prenda, que es su rasgo primordial]. Los sistemas de ajuste como cortes y pinzas, amplitudes, además de sistemas de cierre deben coordinar con el diseño presentado y sus proporciones. #[b Los largos de los vestidos de noche merecen atención] en el desarrollo del patronaje sobre todo en lo relacionado con las especificaciones en el corte.
+        p El vestido, prenda fundamental para el uso en ocasiones tanto casuales como formales, en este caso, se hace hincapié en los vestidos de noche, los cuales se reconocen como requisito en normas de etiqueta de vestir, en los eventos de la mencionada jornada. Los vestidos resaltan en mayor medida las curvas de las féminas siempre y cuando guarde coherencia con la elegancia de la prenda, que es su rasgo primordial. Los sistemas de ajuste como cortes y pinzas, amplitudes, además de sistemas de cierre deben coordinar con el diseño presentado y sus proporciones. Los largos de los vestidos de noche merecen atención en el desarrollo del patronaje sobre todo en lo relacionado con las especificaciones en el corte.
         .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
           .col-lg-6
             .cajon.color-primario.p-4.mb-4
@@ -406,7 +406,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p.py-4 Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, #[b cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera]. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
+        p.py-4 Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
           .col-lg-8
             img(src='@/assets/curso/temas/tema3/img56.png', alt='')
@@ -433,7 +433,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p #[b Los overoles o también llamados por su uso casual para las mujeres como enterizos han cobrado especial desarrollo en la línea femenina], creando diseños multifuncionales. #[b Una de las medidas de especial atención por el patronista es el tiro], el cual debe verificarse conforme a la metodología planteada y teniendo en cuenta el material a usar. El patronista debe analizar la horma necesaria para que corresponda con el diseño planteado, aplicando los desarrollos de las piezas en amplitudes o ajustes dado el caso. 
+        p Los overoles o también llamados por su uso casual para las mujeres como enterizos han cobrado especial desarrollo en la línea femenina, creando diseños multifuncionales. Una de las medidas de especial atención por el patronista es el tiro, el cual debe verificarse conforme a la metodología planteada y teniendo en cuenta el material a usar. El patronista debe analizar la horma necesaria para que corresponda con el diseño planteado, aplicando los desarrollos de las piezas en amplitudes o ajustes dado el caso. 
       .col-lg-3.col-8.col-sm-6
         img(src='@/assets/curso/temas/tema3/img388.png', alt='')
     p En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
